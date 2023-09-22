@@ -1,0 +1,94 @@
+{
+	"name": "Cold Python Theme",
+	"type": "dark",
+	"colors": {
+
+		"titleBar.activeBackground": "#313335",
+		"titleBar.inactiveBackground": "#27292A",
+		"titleBar.border": "#3C3F41",
+
+		"editor.background": "#2B2B2B",
+		"editor.lineHighlightBackground": "#323232",
+		"editor.inactiveSelectionBackground": "#3a3d41",
+		"editor.selectionBackground": "#264F78",
+		"editorLineNumber.foreground": "#606366",
+		"editorLineNumber.activeForeground": "#A4A3A3",
+		"editorRuler.foreground": "#464646",
+		"editorGutter.background": "#313335",
+		"editorGroup.border": "#505050",
+		"editorGroupHeader.tabsBorder": "#505050",
+		"editorGroupHeader.tabsBackground": "#27292A",
+		"editorCodeLens.foreground": "#565c63",
+		"editorIndentGuide.background": "#373737",
+		"editorIndentGuide.activeBackground": "#555555",
+
+		"tab.border": "#555555", 
+		"tab.hoverBackground": "#606466", 
+		"tab.unfocusedHoverBackground": "#606466", 
+		"tab.activeBorder": "#4095AC",
+		"tab.activeBackground": "#4E5254", 
+		"tab.inactiveForeground": "#BBBBBB",
+		"tab.unfocusedActiveForeground": "#BBBBBB",
+		"tab.unfocusedInactiveForeground": "#BBBBBB",
+		"tab.inactiveBackground": "#3C3F41",
+
+		"breadcrumb.background": "#313335",
+
+		"sideBarSectionHeader.background": "#3C3F41", 
+		"sideBarSectionHeader.border": "#505050", 
+		"sideBar.border": "#464646", 
+		"sideBar.foreground": "#A7A7A7", 
+		"sideBar.background": "#27292A", 
+
+		"list.dropBackground": "#474B4D",
+
+		"panel.border": "#4B4B4B", 
+		"panelTitle.activeBorder": "#4A7A88",
+		"panelTitle.activeForeground": "#D3D3D3",
+		"panel.background": "#313335", 
+		"panel.dropBackground": "#2B2B2B",
+
+		"activityBar.border": "#464646", 
+		"activityBar.background": "#313335",
+		"activityBar.foreground": "#C5C5C5", 
+
+		"terminal.background": "#252526",
+		"terminal.foreground": "#BBBBBB",
+
+		"statusBar.foreground": "#BBBBBB",
+		"statusBar.debuggingForeground": "#cccccc",
+
+		"statusBar.background": "#313335",
+		"statusBar.debuggingBackground": "#864d30",
+		"statusBar.noFolderBackground": "#313335",
+
+		"statusBar.border": "#4B4B4B",
+		"statusBar.noFolderBorder": "#4B4B4B",
+		"statusBar.debuggingBorder": "#4B4B4B",
+
+		"menu.foreground": "#ADADAD",
+		"menu.border": "#505050",
+		"menu.background": "#3C3F41",
+
+		"list.hoverBackground": "#313335",
+		"list.inactiveSelectionBackground": "#0D293E",
+		"list.activeSelectionForeground": "#ADADAD",
+
+		"input.border": "#646464",
+		"input.background": "#45494A",
+		"input.foreground": "#BBBBBB",
+
+		"dropdown.listBackground": "#646464",
+		"dropdown.foreground": "#BBBBBB",
+		"dropdown.border": "#646464",
+
+		"editorWidget.background": "#313335",
+		"editorWidget.border": "#464646",
+		"editorSuggestWidget.background": "#3C3F41",
+
+		"settings.headerForeground": "#BBBBBB",
+
+		"gitDecoration.ignoredResourceForeground": "#505050"
+	},
+	
+}
