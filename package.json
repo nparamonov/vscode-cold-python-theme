@@ -33,6 +33,13 @@
         "uiTheme": "vs-dark",
         "path": "./themes/cold-python-theme-dark.json"
       }
+    ],
+    "iconThemes": [
+      {
+        "id": "cold-python-dark-icon-theme.json",
+        "label": "Cold Python Theme Icons",
+        "path": "./themes/cold-python-theme-dark-icons.json"
+      }
     ]
   }
 }
