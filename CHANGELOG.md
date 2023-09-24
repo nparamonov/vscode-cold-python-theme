@@ -1,5 +1,10 @@
 # Change Log
 
+## 1.0.0
+
+- Prepare package.json for publication on the marketplace
+- Add icon
+
 ## 0.0.1
 
 - Create package

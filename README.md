@@ -2,7 +2,7 @@
 
 The goal of the Cold Python Theme is to reduce visual clutter and give you more space for your code and thoughts.
 
-![example](/img/example.png)
+![example](https://raw.githubusercontent.com/nparamonov/vscode-cold-python-theme/main/img/example.png)
 
 I hope this theme will be the one you enjoy working with day and night.
 
