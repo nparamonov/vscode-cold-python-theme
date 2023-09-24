@@ -1,5 +1,10 @@
 # Change Log
 
+## 1.1.0
+- Add file icons
+- Add features to README.md
+- Add LICENSE file
+
 ## 1.0.0
 
 - Prepare package.json for publication on the marketplace
