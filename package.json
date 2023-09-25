@@ -1,8 +1,8 @@
 {
   "name": "cold-python-theme",
   "displayName": "Cold Python Theme",
-  "description": "Dark Cold Python Theme",
-  "version": "1.0.0",
+  "description": "Dark Cold Python Theme with icons",
+  "version": "1.1.0",
   "license": "MIT",
   "publisher": "nparamonov",
   "repository": "https://github.com/nparamonov/vscode-cold-python-theme",
@@ -18,13 +18,15 @@
     "semantic",
     "highlighting",
     "cold",
+    "dark",
     "darcula",
     "darkula",
     "dracula",
     "drakula",
     "pycharm",
     "IntelliJ",
-    "New UI"
+    "New UI",
+    "icons"
 ],
   "contributes": {
     "themes": [
