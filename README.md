@@ -21,7 +21,7 @@ Go to [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=npara
 
 Set Color Theme ([guide](https://code.visualstudio.com/docs/getstarted/themes#_selecting-the-color-theme))
 
-![Select the Color Theme](/img/select_color_theme.jpg)
+![Select the Color Theme](https://raw.githubusercontent.com/nparamonov/vscode-cold-python-theme/main/img/select_color_theme.jpg)
 
 This will give you IDE and syntax highlighting.
 
@@ -29,7 +29,7 @@ This will give you IDE and syntax highlighting.
 
 Set File Icon Theme ([guide](https://code.visualstudio.com/docs/getstarted/themes#_selecting-the-file-icon-theme))
 
-![Select the File Icon Theme](/img/select_file_icon_theme.jpg)
+![Select the File Icon Theme](https://raw.githubusercontent.com/nparamonov/vscode-cold-python-theme/main/img/select_file_icon_theme.jpg)
 
 This will give you file icons shown in the File Explorer and tabbed headings
 
@@ -45,7 +45,7 @@ Then there are 2 ways to enable the new font:
 
 #### Settings UI
 
-![Change font in settings UI](/img/change_font_settings_ui.jpg)
+![Change font in settings UI](https://raw.githubusercontent.com/nparamonov/vscode-cold-python-theme/main/img/change_font_settings_ui.jpg)
 
 > **It is very important to specify the font family exactly `JetBrainsMono`, without spaces!**
 
