@@ -1,8 +1,8 @@
 {
   "name": "cold-python-theme",
   "displayName": "Cold Python Theme",
-  "description": "Dark Cold Python Theme",
-  "version": "1.0.0",
+  "description": "PyCharm inspired dark theme with icons and JetBrains Mono font",
+  "version": "1.2.0",
   "license": "MIT",
   "publisher": "nparamonov",
   "repository": "https://github.com/nparamonov/vscode-cold-python-theme",
@@ -18,27 +18,33 @@
     "semantic",
     "highlighting",
     "cold",
+    "dark",
     "darcula",
     "darkula",
     "dracula",
     "drakula",
     "pycharm",
     "IntelliJ",
-    "New UI"
+    "New UI",
+    "icons",
+    "JetBrains",
+    "JetBrains Mono",
+    "PyCharm",
+    "font"
 ],
   "contributes": {
     "themes": [
       {
         "label": "Cold Python Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/cold-python-theme-dark.json"
+        "path": "./themes/cold-python-color-theme.json"
       }
     ],
     "iconThemes": [
       {
-        "id": "cold-python-dark-icon-theme.json",
-        "label": "Cold Python Theme Icons",
-        "path": "./themes/cold-python-theme-dark-icons.json"
+        "id": "cold-python-dark-icon-theme",
+        "label": "Cold Python Theme: Icons, JetBrains Mono font",
+        "path": "./themes/cold-python-icon-theme.json"
       }
     ]
   }

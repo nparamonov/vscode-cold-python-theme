@@ -1,4 +1,18 @@
 {
+	"fonts": [
+		{
+		  "id": "JetBrainsMono",
+		  "src": [
+			{
+			  "path": "./fonts/JetBrainsMono-Regular.woff",
+			  "format": "woff"
+			}
+		  ],
+		  "weight": "normal",
+		  "style": "normal",
+		  "size": "100%"
+		}
+	],
 	"iconDefinitions": {
 		"file_text": {"iconPath": "./icons/text_dark.svg"},
 		"folder": {"iconPath": "./icons/folder_dark.svg"},

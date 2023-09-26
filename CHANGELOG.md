@@ -1,6 +1,11 @@
 # Change Log
 
+## 1.2.0
+
+- Add JetBrains Mono font
+
 ## 1.1.0
+
 - Add file icons
 - Add features to README.md
 - Add LICENSE file
