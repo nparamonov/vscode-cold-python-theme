@@ -2,6 +2,13 @@
 
 The goal of the Cold Python Theme is to reduce visual clutter and give you more space for your code and thoughts.
 
+<p align="center">
+    <a href="https://marketplace.visualstudio.com/items?itemName=nparamonov.cold-python-theme"><img src="https://img.shields.io/visual-studio-marketplace/v/nparamonov.cold-python-theme?style=for-the-badge&colorA=555555&colorB=007ec6&label=VERSION" alt="Version"></a>&nbsp;
+    <a href="https://marketplace.visualstudio.com/items?itemName=nparamonov.cold-python-theme"><img src="https://img.shields.io/visual-studio-marketplace/r/nparamonov.cold-python-theme?style=for-the-badge&colorA=555555&colorB=007ec6&label=RATING" alt="Rating"></a>&nbsp;
+    <a href="https://marketplace.visualstudio.com/items?itemName=nparamonov.cold-python-theme"><img src="https://img.shields.io/visual-studio-marketplace/i/nparamonov.cold-python-theme?style=for-the-badge&colorA=555555&colorB=007ec6&label=Installs" alt="INSTALLS"></a>&nbsp;
+    <a href="https://marketplace.visualstudio.com/items?itemName=nparamonov.cold-python-theme"><img src="https://img.shields.io/visual-studio-marketplace/d/nparamonov.cold-python-theme?style=for-the-badge&colorA=555555&colorB=007ec6&label=Downloads" alt="DOWNLOADS"></a>
+</p>
+
 ![example](https://raw.githubusercontent.com/nparamonov/vscode-cold-python-theme/main/img/example.png)
 
 I hope this theme will be the one you enjoy working with day and night.
