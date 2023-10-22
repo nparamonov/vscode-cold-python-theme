@@ -1,5 +1,10 @@
 # Change Log
 
+## 1.2.1
+
+- Fix colors for Markdown, TOML, HTML, XML, CSS, JS
+- Add badges to README.md
+
 ## 1.2.0
 
 - Add JetBrains Mono font
