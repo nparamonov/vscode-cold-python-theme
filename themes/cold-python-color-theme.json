@@ -1078,6 +1078,8 @@
 			"scope": [
 				"source.toml keyword.key",
 				"source.toml entity.other",
+				"support.type.property-name.toml",
+				"support.type.property-name.table.toml"
 			],
 			"settings": {
 				"foreground": "#c48d69"
