@@ -216,7 +216,7 @@
 				"support.constant.handlebars"
 			],
 			"settings": {
-				"foreground": "#FFC66D",
+				"foreground": "#ad9665",
 				"fontStyle": ""
 			}
 		},
@@ -359,7 +359,7 @@
 				"text.xml keyword.other",
 			],
 			"settings": {
-				"foreground": "#FFC66D"
+				"foreground": "#ad9665"
 			}
 		},
 		{
@@ -367,7 +367,7 @@
 				"text.xml entity.name.tag.localname"
 			],
 			"settings": {
-				"foreground": "#FFC66D"
+				"foreground": "#ad9665"
 			}
 		},
 		{
@@ -395,7 +395,7 @@
 				"text.html meta.tag.metadata.style.end punctuation.definition.tag.begin source"
 			],
 			"settings": {
-				"foreground": "#FFC66D",
+				"foreground": "#ad9665",
 			}
 		},
 		{
@@ -405,7 +405,7 @@
 				"text.html punctuation.definition.tag.end",
 			],
 			"settings": {
-				"foreground": "#FFC66D",
+				"foreground": "#ad9665",
 			}
 		},
 		{
@@ -415,7 +415,7 @@
 				"text.html entity.name.tag.block.any",
 			],
 			"settings": {
-				"foreground": "#FFC66D",
+				"foreground": "#ad9665",
 			}
 		},
 		{
@@ -426,7 +426,7 @@
 				"text.html meta.attribute.style.html meta.embedded.line.css source.css"
 			],
 			"settings": {
-				"foreground": "#FFC66D",
+				"foreground": "#588f66",
 			}
 		},
 		{
@@ -502,7 +502,7 @@
 				"text.html.django meta.tag"
 			],
 			"settings": {
-				"foreground": "#FFC66D",
+				"foreground": "#ad9665",
 			}
 		},
 		{
@@ -577,7 +577,7 @@
 				"meta.selector.css",
 			],
 			"settings": {
-				"foreground": "#E8BF6A",
+				"foreground": "#ad9665",
 				"fontStyle": ""
 			}
 		},
@@ -586,7 +586,7 @@
 				"meta.property-value.css",
 			],
 			"settings": {
-				"foreground": "#A5C261",
+				"foreground": "#588f66",
 				"fontStyle": ""
 			}
 		},
@@ -615,7 +615,7 @@
 				"source.css.less meta.property-list.css meta.property-value.css constant.numeric.css"
 			],
 			"settings": {
-				"foreground": "#A5C261"
+				"foreground": "#588f66"
 			}
 		},
 
@@ -907,17 +907,6 @@
 			}
 		},
 		{
-			"name": "Javascript commas",
-			"scope": [
-				"source.js punctuation.separator.comma",
-				"source.js punctuation.terminator.statement",
-			],
-			"settings": {
-				"foreground": "#c48d69",
-				"fontStyle": ""
-			}
-		},
-		{
 			"name": "Javascript storage types",
 			"scope": [
 				"source.js storage.type.class",
@@ -940,12 +929,12 @@
 		},
 		{
 			"scope": [
-				"source.js meta.function meta.function-call",
+				"entity.name.function.js",
 				"source.js meta.function meta.definition.function.js entity.name.function",
 				"source.js meta.function.expression.js entity.name.function",
 			],
 			"settings": {
-				"foreground": "#FFC66D"
+				"foreground": "#4784b8"
 			}
 		},
 		{
@@ -1000,7 +989,7 @@
 				"source.powershell support.function",
 			],
 			"settings": {
-				"foreground": "#FFC66D",
+				"foreground": "#ad9665",
 			}
 		},
 
@@ -1027,7 +1016,7 @@
 				"source.batchfile keyword.other.special-method",
 			],
 			"settings": {
-				"foreground": "#FFC66D",
+				"foreground": "#ad9665",
 			}
 		},
 		{
@@ -1198,7 +1187,7 @@
 				"source.ts meta.definition.variable entity.name.function",
 			],
 			"settings": {
-				"foreground": "#FFC66D",
+				"foreground": "#ad9665",
 				"fontStyle": ""
 			}
 		},
