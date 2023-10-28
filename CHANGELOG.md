@@ -3,6 +3,8 @@
 ## 1.2.2
 
 - Fix markdown colors: table, separator, escape character, strikethrough
+- Fix jinja colors
+- Add jinja file icon
 
 ## 1.2.1
 
