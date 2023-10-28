@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.2.2
+
+- Fix markdown colors: table, separator, escape character, strikethrough
+
 ## 1.2.1
 
 - Fix colors for Markdown, TOML, HTML, XML, CSS, JS
