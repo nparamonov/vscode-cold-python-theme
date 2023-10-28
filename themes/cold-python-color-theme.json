@@ -450,21 +450,17 @@
 				"text.html.jinja keyword.control",
 			],
 			"settings": {
-				"foreground": "#c48d69",
+				"foreground": "#AD9665",
 				"fontStyle": "bold"
 			}
 		},
 		{
 			"scope": [
 				"text.html.jinja entity.other.jinja.delimiter.variable",
-			],
-			"settings": {
-				"foreground": "#c48d69",
-			}
-		},
-		{
-			"scope": [
 				"text.html.jinja entity.other.jinja.delimiter.tag",
+				"text.html.jinja variable.entity.other.jinja.delimiter",
+				"text.html.jinja meta.attribute.unrecognized.{{.html",
+				"text.html.jinja meta.attribute.unrecognized.}}.html",
 			],
 			"settings": {
 				"foreground": "#c48d69",
