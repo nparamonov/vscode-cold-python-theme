@@ -16,6 +16,11 @@
 	"iconDefinitions": {
 		"file_text": {"iconPath": "./icons/text_dark.svg"},
 		"folder": {"iconPath": "./icons/folder_dark.svg"},
+		"folder_tests": {"iconPath": "./icons/folder_tests.svg"},
+		"folder_config": {"iconPath": "./icons/folder_config.svg"},
+		"folder_templates": {"iconPath": "./icons/folder_templates.svg"},
+		"folder_src": {"iconPath": "./icons/folder_src.svg"},
+		"folder_docs": {"iconPath": "./icons/folder_docs.svg"},
 		"file_ignored": {"iconPath": "./icons/ignored_dark.svg"},
 		"file_css": {"iconPath": "./icons/css.svg"},
 		"file_scss": {"iconPath": "./icons/scss.svg"},
@@ -61,7 +66,14 @@
 	},
 	"file": "file_text",
 	"folder": "folder",
-	"folderNames": {},
+	"folderNames": {
+		"tests": "folder_tests",
+		"config": "folder_config",
+		"settings": "folder_config",
+		"templates": "folder_templates",
+		"src": "folder_src",
+		"docs": "folder_docs",
+	},
 	"fileNames": {
 		".gitignore": "file_gitignore",
 		".gitattributes": "file_gitignore",
