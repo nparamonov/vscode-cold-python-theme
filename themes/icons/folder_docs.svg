@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<svg width="16" height="16" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <g class="layer">
+  <title>Layer 1</title>
+  <path d="m8.11,4.35l0.14,0.15l0.22,0l4.53,0c0.83,0 1.5,0.67 1.5,1.5l0,6.13c0,0.82 -0.57,1.37 -1.13,1.37l-10.74,0c-0.56,0 -1.13,-0.55 -1.13,-1.37l0,-8.26c0,-0.82 0.57,-1.37 1.13,-1.37l3.49,0c0.14,0 0.27,0.06 0.36,0.15l1.63,1.7z" fill="#43454A" id="svg_1" stroke="#CED0D6" transform="matrix(1 0 0 1 0 0)"/>
+  <rect fill="#5cb684" height="8.62" id="svg_6" rx="2" ry="2" stroke="#CED0D6" stroke-width="0" transform="matrix(1 0 0 1 0 0)" width="10.4" x="5.43" y="7.25"/>
+  <use id="svg_11" transform="matrix(0.0106694 0 0 0.0106694 45.4134 32.9687)" x="-3645.22" xlink:href="#svg_10" y="-2382.24"/>
+ </g>
+ <defs>
+  <symbol height="800px" id="svg_10" viewBox="0 0 24 24" width="800px" xmlns="http://www.w3.org/2000/svg">
+   <path d="m3,4c-0.55,0 -1,0.45 -1,1l0,0.5c0,0.55 0.45,1 1,1l18,0c0.55,0 1,-0.45 1,-1l0,-0.5c0,-0.55 -0.45,-1 -1,-1l-18,0z" fill="#43454a" id="svg_2"/>
+   <path d="m3,13c-0.55,0 -1,0.45 -1,1l0,0.5c0,0.55 0.45,1 1,1l18,0c0.55,0 1,-0.45 1,-1l0,-0.5c0,-0.55 -0.45,-1 -1,-1l-18,0z" fill="#43454a" id="svg_3"/>
+   <path d="m2,9.5c0,-0.55 0.45,-1 1,-1l12,0c0.55,0 1,0.45 1,1l0,0.5c0,0.55 -0.45,1 -1,1l-12,0c-0.55,0 -1,-0.45 -1,-1l0,-0.5z" fill="#43454a" id="svg_4"/>
+   <path d="m3,17.5c-0.55,0 -1,0.45 -1,1l0,0.5c0,0.55 0.45,1 1,1l12,0c0.55,0 1,-0.45 1,-1l0,-0.5c0,-0.55 -0.45,-1 -1,-1l-12,0z" fill="#43454a" id="svg_5"/>
+  </symbol>
+ </defs>
+</svg>

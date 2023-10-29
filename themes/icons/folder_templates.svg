@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<svg width="16" height="16" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <g class="layer">
+  <title>Layer 1</title>
+  <path d="m8.11,4.35l0.14,0.15l0.22,0l4.53,0c0.83,0 1.5,0.67 1.5,1.5l0,6.13c0,0.82 -0.57,1.37 -1.13,1.37l-10.74,0c-0.56,0 -1.13,-0.55 -1.13,-1.37l0,-8.26c0,-0.82 0.57,-1.37 1.13,-1.37l3.49,0c0.14,0 0.27,0.06 0.36,0.15l1.63,1.7z" fill="#43454A" id="svg_1" stroke="#CED0D6"/>
+  <use id="svg_5" transform="matrix(-0.013252 0 0 0.0136047 2.69668 23.5269)" x="-1055.91" xlink:href="#svg_6" y="-1303.22"/>
+ </g>
+ <defs>
+  <symbol class="icon glyph" fill="#c1a06e" height="800px" id="svg_6" viewBox="0 0 24 24" width="800px" xmlns="http://www.w3.org/2000/svg">
+   <path d="m14,10l0,12l-10,0a2,2 0 0 1 -2,-2l0,-10l12,0z" id="svg_2"/>
+   <path d="m22,10l0,10a2,2 0 0 1 -2,2l-4,0l0,-12l6,0z" id="svg_3"/>
+   <path d="m22,4l0,4l-20,0l0,-4a2,2 0 0 1 2,-2l16,0a2,2 0 0 1 2,2z" id="svg_4"/>
+  </symbol>
+ </defs>
+</svg>

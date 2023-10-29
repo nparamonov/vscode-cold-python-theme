@@ -1,5 +1,15 @@
 # Change Log
 
+## 1.3.0
+
+- Add folder icons: docs, tests, config, templates, src
+
+## 1.2.2
+
+- Fix markdown colors: table, separator, escape character, strikethrough
+- Fix jinja colors
+- Add jinja file icon
+
 ## 1.2.1
 
 - Fix colors for Markdown, TOML, HTML, XML, CSS, JS

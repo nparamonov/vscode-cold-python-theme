@@ -16,8 +16,8 @@ I hope this theme will be the one you enjoy working with day and night.
 ## Features
 
 - Full support for Python syntax
-- Beta syntax support for html, templates, css, shell, rst, json, js, batchfile, ini, yaml, toml, ts, dockerfile and some others (in progress)
-- Icons theme, inspired by JetBrains ([https://jetbrains.design/intellij/resources/icons_list/](https://jetbrains.design/intellij/resources/icons_list/))
+- Beta syntax support for html, templates, css, shell, rst, json, js, batchfile, ini, yaml, toml, ts, dockerfile, jinja2 and some others (in progress)
+- Icons theme, inspired by JetBrains ([https://jetbrains.design/intellij/resources/icons_list/](https://jetbrains.design/intellij/resources/icons_list/)) + folders icons
 - JetBrains Mono font ready to use (included in icon theme)
 
 ## Install
