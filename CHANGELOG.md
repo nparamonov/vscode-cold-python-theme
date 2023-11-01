@@ -1,5 +1,10 @@
 # Change Log
 
+## 1.3.1
+
+- Change folder icons: docs, tests, config, templates, src
+- Add folder icons: database, migrations, scripts, gitignored folders
+
 ## 1.3.0
 
 - Add folder icons: docs, tests, config, templates, src
