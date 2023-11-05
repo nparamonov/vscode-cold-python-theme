@@ -66,7 +66,9 @@
 		"file_rust": {"iconPath": "./icons/rustFile_dark.svg"},
 		"file_cargo": {"iconPath": "./icons/cargo_dark.svg"},
 		"file_cargolock": {"iconPath": "./icons/cargoLock_dark.svg"},
-		"file_cmake": {"iconPath": "./icons/CMake_dark.svg"}
+		"file_cmake": {"iconPath": "./icons/CMake_dark.svg"},
+		"github": {"iconPath": "./icons/github_dark.svg"},
+		"gitlab": {"iconPath": "./icons/gitlab.svg"}
 	},
 	"file": "file_text",
 	"folder": "folder",
@@ -81,6 +83,8 @@
 		"migrations": "folder_migrations",
 		"database": "folder_database",
 		"db": "folder_database",
+		".github": "github",
+		".gitlab": "gitlab",
 		"venv": "folder_gitignored",
 		".venv": "folder_gitignored",
 		"__pycache__": "folder_gitignored",
