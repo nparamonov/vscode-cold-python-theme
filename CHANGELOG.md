@@ -1,5 +1,12 @@
 # Change Log
 
+## 1.4.0
+
+- Fix SQL colors
+- Add gitignored folders icons .mypy_cache, .ruff_cache
+- Add github, gitlab icons
+- Add pdf file icon
+
 ## 1.3.1
 
 - Change folder icons: docs, tests, config, templates, src
