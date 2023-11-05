@@ -68,7 +68,8 @@
 		"file_cargolock": {"iconPath": "./icons/cargoLock_dark.svg"},
 		"file_cmake": {"iconPath": "./icons/CMake_dark.svg"},
 		"github": {"iconPath": "./icons/github_dark.svg"},
-		"gitlab": {"iconPath": "./icons/gitlab.svg"}
+		"gitlab": {"iconPath": "./icons/gitlab.svg"},
+		"file_pdf": {"iconPath": "./icons/pdf.svg"},
 	},
 	"file": "file_text",
 	"folder": "folder",
@@ -188,6 +189,7 @@
 		"conf": "file_config",
 		"cnf": "file_config",
 		"slim": "file_slim",
-		"rs": "file_rust"
+		"rs": "file_rust",
+		"pdf": "file_pdf",
 	}
   }

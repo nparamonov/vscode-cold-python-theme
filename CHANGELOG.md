@@ -5,6 +5,7 @@
 - Fix SQL colors
 - Add gitignored folders icons .mypy_cache, .ruff_cache
 - Add github, gitlab icons
+- Add pdf file icon
 
 ## 1.3.1
 
