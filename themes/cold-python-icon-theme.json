@@ -89,6 +89,8 @@
 		".pytest_cache": "folder_gitignored",
 		"htmlcov": "folder_gitignored",
 		".tox": "folder_gitignored",
+		".mypy_cache": "folder_gitignored",
+		".ruff_cache": "folder_gitignored",
 	},
 	"fileNames": {
 		".gitignore": "file_gitignore",
