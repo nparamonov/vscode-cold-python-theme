@@ -617,10 +617,38 @@
 
 		{
 			"scope": [
-				"keyword.other.DML.sql"
+				"keyword.other.DML.sql",
+				"keyword.other.alias.sql",
+				"keyword.other.order.sql",
+				"keyword.other.sql",
+				"storage.type.sql",
+				"source.sql keyword",
+				"keyword.other.DDL",
+				"source.sql support",
+				"support.function.logical.sql"
 			],
 			"settings": {
-				"foreground": "#c48d69"
+				"foreground": "#c48d69",
+			}
+		},
+
+		{
+			"scope": [
+				"support.function.aggregate.sql",
+				"support.function.analytic.sql"
+			],
+			"settings": {
+				"foreground": "#3d85cc",
+				"fontStyle": "italic"
+			}
+		},
+
+		{
+			"scope": [
+				"constant.other.table-name.sql",
+			],
+			"settings": {
+				"foreground": "#aa6b8c"
 			}
 		},
 
@@ -1296,17 +1324,6 @@
 		{
 			"scope": [
 				"source.env string.quoted string.interpolated",
-			],
-			"settings": {
-				"foreground": "#c48d69",
-				"fontStyle": ""
-			}
-		},
-
-		{
-			"scope": [
-				"source.sql keyword.other",
-				"source.plsql keyword.other",
 			],
 			"settings": {
 				"foreground": "#c48d69",
