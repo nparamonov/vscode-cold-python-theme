@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.4.1
+
+- Fix TOML: change table name color
+
 ## 1.4.0
 
 - Fix SQL colors
