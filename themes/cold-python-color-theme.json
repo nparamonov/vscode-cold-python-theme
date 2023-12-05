@@ -1116,10 +1116,18 @@
 				"source.toml keyword.key",
 				"source.toml entity.other",
 				"support.type.property-name.toml",
-				"support.type.property-name.table.toml"
 			],
 			"settings": {
 				"foreground": "#c48d69"
+			}
+		},
+		{
+			"scope": [
+				"support.type.property-name.table.toml",
+				"support.type.property-name.array.toml"
+			],
+			"settings": {
+				"foreground": "#56A8F5"
 			}
 		},
 		{

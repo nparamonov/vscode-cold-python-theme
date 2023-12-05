@@ -1,5 +1,10 @@
 # Change Log
 
+## 1.4.1
+
+- Fix TOML: change table name color
+- Fix TOML: add array property name color
+
 ## 1.4.0
 
 - Fix SQL colors
