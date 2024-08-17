@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.5.0
+
+- Add Jupyter Notebook (.ipynb) icon
+
 ## 1.4.1
 
 - Fix TOML: change table name color

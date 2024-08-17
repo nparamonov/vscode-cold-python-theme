@@ -32,6 +32,14 @@ Set Color Theme ([guide](https://code.visualstudio.com/docs/getstarted/themes#_s
 
 This will give you IDE and syntax highlighting.
 
+If the brackets in your code are highlighted in different colors, you can turn off bracket pair colorization so that the brackets are always the color of the main text.
+
+To do this, add the following line to your settings.json file:
+
+```json
+"editor.bracketPairColorization.enabled": false,
+```
+
 ### File icon theme
 
 Set File Icon Theme ([guide](https://code.visualstudio.com/docs/getstarted/themes#_selecting-the-file-icon-theme))
