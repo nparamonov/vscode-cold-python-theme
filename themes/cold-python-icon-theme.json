@@ -70,6 +70,7 @@
 		"github": {"iconPath": "./icons/github_dark.svg"},
 		"gitlab": {"iconPath": "./icons/gitlab.svg"},
 		"file_pdf": {"iconPath": "./icons/pdf.svg"},
+		"file_jupyter": {"iconPath": "./icons/jupyter.svg"},
 	},
 	"file": "file_text",
 	"folder": "folder",
@@ -191,5 +192,6 @@
 		"slim": "file_slim",
 		"rs": "file_rust",
 		"pdf": "file_pdf",
+		"ipynb": "file_jupyter",
 	}
   }
