@@ -22,12 +22,12 @@
 		"editorIndentGuide.background": "#2c2f32",
 		"editorIndentGuide.activeBackground": "#54565c",
 
-		"tab.border": "#555555", 
+		"tab.border": "#555555",
 		"tab.hoverBackground": "#26282e",
-		"tab.hoverForeground": "#dcdfe4", 
-		"tab.unfocusedHoverBackground": "#606466", 
+		"tab.hoverForeground": "#dcdfe4",
+		"tab.unfocusedHoverBackground": "#606466",
 		"tab.activeBorder": "#3574f0",
-		"tab.activeBackground": "#1e1f22", 
+		"tab.activeBackground": "#1e1f22",
 		"tab.inactiveForeground": "#babcc1",
 		"tab.unfocusedActiveForeground": "#BBBBBB",
 		"tab.unfocusedInactiveForeground": "#BBBBBB",
@@ -35,23 +35,23 @@
 
 		"breadcrumb.background": "#1e1f22",
 
-		"sideBarSectionHeader.background": "#43454a", 
-		"sideBarSectionHeader.border": "#43454a", 
-		"sideBar.border": "#2b2d30", 
-		"sideBar.foreground": "#ced0d6", 
-		"sideBar.background": "#2b2d30", 
+		"sideBarSectionHeader.background": "#43454a",
+		"sideBarSectionHeader.border": "#43454a",
+		"sideBar.border": "#2b2d30",
+		"sideBar.foreground": "#ced0d6",
+		"sideBar.background": "#2b2d30",
 
 		"list.dropBackground": "#474B4D",
 
-		"panel.border": "#2b2d30", 
+		"panel.border": "#2b2d30",
 		"panelTitle.activeBorder": "#3574f0",
 		"panelTitle.activeForeground": "#dfe1e5",
-		"panel.background": "#2b2d30", 
+		"panel.background": "#2b2d30",
 		"panel.dropBackground": "#2B2B2B",
 
-		"activityBar.border": "#1e1f22", 
+		"activityBar.border": "#1e1f22",
 		"activityBar.background": "#2b2d30",
-		"activityBar.foreground": "#ced0d6", 
+		"activityBar.foreground": "#ced0d6",
 
 		"terminal.background": "#1e1f22",
 		"terminal.foreground": "#bcbec4",
@@ -1361,7 +1361,6 @@
 				"foreground": "#b5cea8"
 			}
 		},
-
 		{
 			"scope": [
 				"punctuation.section.embedded.begin.metatag.php",
@@ -1369,6 +1368,49 @@
 			],
 			"settings": {
 				"foreground": "#c48d69"
+			}
+		},
+		{
+			"scope": "keyword.control.include.makefile",
+			"settings": {
+				"foreground": "#a47f60"
+			}
+		},
+		{
+			"scope": "constant.character.escape.continuation.makefile",
+			"settings": {
+				"foreground": "#a47f60"
+			}
+		},
+		{
+			"scope": [
+				"meta.scope.prerequisites.makefile",
+			],
+			"settings": {
+				"foreground": "#4a8dc9"
+			}
+		},
+		{
+			"scope": [
+				"variable.other.makefile",
+			],
+			"settings": {
+				"foreground": "#a36537"
+			}
+		},
+		{
+			"scope": [
+				"punctuation.definition.variable.makefile",
+				"keyword.control.@.makefile",
+			],
+			"settings": {
+				"foreground": "#BCBEC4"
+			}
+		},
+		{
+			"scope": "entity.name.function.target.makefile",
+			"settings": {
+				"foreground": "#9f9a42"
 			}
 		},
 	]
