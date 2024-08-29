@@ -3,6 +3,7 @@
 ## 1.6.0
 
 - Define Makefile syntax colors
+- Update syntax list in readme
 
 ## 1.5.0
 
