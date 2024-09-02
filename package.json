@@ -32,7 +32,8 @@
     "JetBrains",
     "JetBrains Mono",
     "PyCharm",
-    "font"
+    "font",
+    "Goland"
 ],
   "contributes": {
     "themes": [

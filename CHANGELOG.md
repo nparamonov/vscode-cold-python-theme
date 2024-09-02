@@ -4,6 +4,7 @@
 
 - Define Makefile syntax colors
 - Update syntax list in readme
+- Define Golang syntax colors
 
 ## 1.5.0
 

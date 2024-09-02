@@ -17,7 +17,7 @@ I hope this theme will be the one you enjoy working with day and night.
 
 - Full support for syntax
   - Python
-  - Golang (in progress)
+  - Golang
   - HTML
   - templates
   - CSS
