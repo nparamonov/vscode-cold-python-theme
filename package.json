@@ -2,7 +2,7 @@
   "name": "cold-python-theme",
   "displayName": "Cold Python Theme",
   "description": "PyCharm inspired dark theme with icons and JetBrains Mono font",
-  "version": "1.5.0",
+  "version": "1.6.0",
   "license": "MIT",
   "publisher": "nparamonov",
   "repository": "https://github.com/nparamonov/vscode-cold-python-theme",
@@ -15,6 +15,8 @@
   ],
   "keywords": [
     "python",
+    "go",
+    "golang",
     "semantic",
     "highlighting",
     "cold",
@@ -30,7 +32,8 @@
     "JetBrains",
     "JetBrains Mono",
     "PyCharm",
-    "font"
+    "font",
+    "Goland"
 ],
   "contributes": {
     "themes": [

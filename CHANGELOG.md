@@ -1,5 +1,11 @@
 # Change Log
 
+## 1.6.0
+
+- Define Makefile syntax colors
+- Update syntax list in readme
+- Define Golang syntax colors
+
 ## 1.5.0
 
 - Add Jupyter Notebook (.ipynb) icon
