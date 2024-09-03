@@ -2,7 +2,6 @@
 	"name": "Cold Python Theme",
 	"type": "dark",
 	"colors": {
-
 		"titleBar.activeBackground": "#2b2d30",
 		"titleBar.inactiveBackground": "#3c3f41",
 		"titleBar.border": "#3c3f41",
@@ -20,7 +19,9 @@
 		"editorGroupHeader.tabsBackground": "#1e1f22",
 		"editorCodeLens.foreground": "#6a6e78",
 		"editorIndentGuide.background": "#2c2f32",
+		"editorIndentGuide.background1": "#2c2f32",
 		"editorIndentGuide.activeBackground": "#54565c",
+		"editorIndentGuide.activeBackground1": "#54565c",
 
 		"tab.border": "#555555",
 		"tab.hoverBackground": "#26282e",
@@ -1423,30 +1424,57 @@
 				"keyword.function.go",
 				"keyword.var.go",
 				"keyword.control.go",
+				"keyword.struct.go",
+				"keyword.channel.go",
+				"source.go keyword.package",
+				"source.go keyword.control.import",
+				"source.go keyword.const",
+				"source.go keyword.type",
+				"source.go keyword.interface",
+				"source.go keyword.function",
+				"source.go keyword.var",
+				"source.go keyword.control",
+				"source.go keyword.struct",
+				"source.go keyword.channel",
 			],
 			"settings": {
 				"foreground": "#b77651"
 			}
 		},
 		{
-			"scope": "entity.name.type.package.go",
+			"scope": [
+				"entity.name.type.package.go",
+				"source.go entity.name.type.package",
+			],
 			"settings": {
 				"foreground": "#a1ac56"
 			}
 		},
-		// {
-		// 	"scope": "variable.other.assignment.go",
-		// 	"settings": {
-		// 		"foreground": "#ac7195"
-		// 	}
-		// },
 		{
 			"scope": [
-				"entity.name.function.support.go",
+				"constant.other.placeholder.go",
+				"source.go constant.other.placeholder"
+			],
+			"settings": {
+				"foreground": "#c48d69"
+			}
+		},
+		{
+			"scope": [
 				"entity.name.function.go",
+				"source.go entity.name.function",
 			],
 			"settings": {
 				"foreground": "#3e83c9"
+			}
+		},
+		{
+			"scope": [
+				"entity.name.function.support.go",
+				"source.go entity.name.function.support",
+			],
+			"settings": {
+				"foreground": "#9d865a"
 			}
 		},
 		{
@@ -1460,14 +1488,27 @@
 				"entity.name.function.support.builtin.go",
 				"entity.name.type.any.go",
 				"constant.language.null.go",
-				"constant.language.boolean.go"
+				"constant.language.boolean.go",
+				"source.go storage.type.byte",
+				"source.go storage.type.numeric",
+				"source.go storage.type.error",
+				"source.go storage.type.boolean",
+				"source.go storage.type.rune",
+				"source.go storage.type.string",
+				"source.go entity.name.function.support.builtin",
+				"source.go entity.name.type.any",
+				"source.go constant.language.null",
+				"source.go constant.language.boolean",
 			],
 			"settings": {
 				"foreground": "#b6632b"
 			}
 		},
 		{
-			"scope": "entity.name.type.go",
+			"scope": [
+				"entity.name.type.go",
+				"source.go entity.name.type"
+			],
 			"settings": {
 				"foreground": "#5996a3"
 			}
@@ -1477,7 +1518,11 @@
 				"constant.numeric.hexadecimal.go",
 				"keyword.other.unit.hexadecimal.go",
 				"constant.numeric.binary.go",
-				"keyword.other.unit.binary.go"
+				"keyword.other.unit.binary.go",
+				"source.go constant.numeric.hexadecimal",
+				"source.go keyword.other.unit.hexadecimal",
+				"source.go constant.numeric.binary",
+				"source.go keyword.other.unit.binary"
 			],
 			"settings": {
 				"foreground": "#279CB2"

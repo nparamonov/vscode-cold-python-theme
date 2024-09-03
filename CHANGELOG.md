@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.6.1
+
+- Fix Golang syntax colors
+
 ## 1.6.0
 
 - Define Makefile syntax colors
