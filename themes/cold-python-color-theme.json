@@ -1528,5 +1528,70 @@
 				"foreground": "#279CB2"
 			}
 		},
+		{
+			"scope": [
+				"source.groovy constant",
+				"constant.language.groovy",
+			],
+			"settings": {
+				"foreground": "#ae7396",
+				"fontStyle": "italic"
+			}
+		},
+		{
+			"scope": [
+				"meta.method.groovy",
+				"source.groovy meta.method"
+			],
+			"settings": {
+				"foreground": "#3e83c9"
+			}
+		},
+		{
+			"scope": [
+				"source.groovy",
+				"source.groovy punctuation",
+				"source.groovy keyword.operator"
+			],
+			"settings": {
+				"foreground": "#BCBEC4"
+			}
+		},
+		{
+			"scope": [
+				"source.groovy storage",
+				"source.groovy keyword"
+			],
+			"settings": {
+				"foreground": "#b77853"
+			}
+		},
+		{
+			"scope": [
+				"comment.line.double-slash.groovy",
+				"punctuation.definition.comment.groovy",
+				"source.groovy comment.line.double-slash",
+				"source.groovy punctuation.definition.comment",
+			],
+			"settings": {
+				"foreground": "#7A7E85"
+			}
+		},
+		{
+			"scope": [
+				"source.groovy support.function",
+			],
+			"settings": {
+				"foreground": "#9d865a"
+			}
+		},
+		{
+			"scope": [
+				"source.groovy constant.character.escape",
+			],
+			"settings": {
+				"foreground": "#c48d69"
+			}
+		},
 	]
 }
