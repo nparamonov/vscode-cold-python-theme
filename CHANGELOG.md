@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.7.1
+
+- Fix Jenkinsfile and Groovy syntax colors
+
 ## 1.7.0
 
 - Add Jenkinsfile and Groovy syntax colors

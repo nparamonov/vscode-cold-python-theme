@@ -1540,8 +1540,9 @@
 		},
 		{
 			"scope": [
-				"meta.method.groovy",
-				"source.groovy meta.method"
+				"meta.method-call.groovy meta.method.groovy",
+				"source.groovy meta.method-call meta.method",
+				"entity.name.function.java",
 			],
 			"settings": {
 				"foreground": "#3e83c9"
