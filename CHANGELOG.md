@@ -3,6 +3,7 @@
 ## 1.7.1
 
 - Fix Jenkinsfile and Groovy syntax colors
+- Fix Makefile syntax colors
 
 ## 1.7.0
 

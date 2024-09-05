@@ -1372,46 +1372,48 @@
 			}
 		},
 		{
-			"scope": "keyword.control.include.makefile",
+			"scope": [
+				"source.makefile support",
+				"source.makefile keyword",
+				"source.makefile constant.character.escape.continuation",
+				"source.makefile punctuation.definition.variable"
+			],
 			"settings": {
 				"foreground": "#a47f60"
 			}
 		},
 		{
-			"scope": "constant.character.escape.continuation.makefile",
-			"settings": {
-				"foreground": "#a47f60"
-			}
-		},
-		{
 			"scope": [
-				"meta.scope.prerequisites.makefile",
-			],
-			"settings": {
-				"foreground": "#4a8dc9"
-			}
-		},
-		{
-			"scope": [
-				"variable.other.makefile",
-			],
-			"settings": {
-				"foreground": "#a36537"
-			}
-		},
-		{
-			"scope": [
-				"punctuation.definition.variable.makefile",
+				"punctuation.separator.key-value.makefile",
+				"source.makefile punctuation.separator.key-value",
 				"keyword.control.@.makefile",
+				"source.makefile variable",
+				"variable.language.makefile"
 			],
 			"settings": {
 				"foreground": "#BCBEC4"
 			}
 		},
 		{
-			"scope": "entity.name.function.target.makefile",
+			"scope": [
+				"source.makefile entity.name.function.target",
+			],
 			"settings": {
-				"foreground": "#9f9a42"
+				"foreground": "#418fe0"
+			}
+		},
+		{
+			"scope": [
+				"source.makefile meta.scope.target"
+			],
+			"settings": {
+				"foreground": "#a1ac56"
+			}
+		},
+		{
+			"scope": "source.makefile comment",
+			"settings": {
+				"foreground": "#7A7E85"
 			}
 		},
 		{
