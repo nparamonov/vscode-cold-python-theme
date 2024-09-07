@@ -3,6 +3,7 @@
 ## 1.8.0
 
 - Add InlayHint styles
+- Markdown: add shell code block styles
 
 ## 1.7.1
 

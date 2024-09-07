@@ -779,6 +779,23 @@
 		},
 		{
 			"scope": [
+				"meta.statement.command.shell"
+			],
+			"settings": {
+				"foreground": "#6D9CBE",
+			}
+		},
+		{
+			"scope": [
+				"meta.statement.command.name.shell",
+				"support.function.builtin.shell",
+			],
+			"settings": {
+				"foreground": "#917747",
+			}
+		},
+		{
+			"scope": [
 				// "text.html.markdown punctuation",
 				"punctuation.definition.markdown",
 				"punctuation.definition.list.begin.markdown",
