@@ -91,7 +91,14 @@
 
 		"settings.headerForeground": "#BBBBBB",
 
-		"gitDecoration.ignoredResourceForeground": "#505050"
+		"gitDecoration.ignoredResourceForeground": "#505050",
+
+		"editorInlayHint.background": "#2d2e32",
+		"editorInlayHint.foreground": "#70787a",
+		"editorInlayHint.parameterBackground": "#2d2e32",
+		"editorInlayHint.parameterForeground": "#70787a",
+		"editorInlayHint.typeBackground": "#2d2e32",
+		"editorInlayHint.typeForeground": "#70787a",
 	},
 	"tokenColors": [
 		{

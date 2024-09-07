@@ -2,7 +2,7 @@
   "name": "cold-python-theme",
   "displayName": "Cold Python Theme",
   "description": "PyCharm inspired dark theme with icons and JetBrains Mono font",
-  "version": "1.7.1",
+  "version": "1.8.0",
   "license": "MIT",
   "publisher": "nparamonov",
   "repository": "https://github.com/nparamonov/vscode-cold-python-theme",

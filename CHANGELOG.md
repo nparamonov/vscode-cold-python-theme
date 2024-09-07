@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.8.0
+
+- Add InlayHint styles
+
 ## 1.7.1
 
 - Fix Jenkinsfile and Groovy syntax colors
