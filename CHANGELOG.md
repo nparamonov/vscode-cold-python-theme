@@ -5,6 +5,7 @@
 - Add InlayHint styles
 - Markdown: add shell code block styles
 - Define terminal ansi colors
+- Add Dockerfile variable color support
 
 ## 1.7.1
 

@@ -1389,7 +1389,25 @@
 			],
 			"settings": {
 				"foreground": "#c48d69",
-				"fontStyle": ""
+			}
+		},
+		{
+			"scope": [
+				"source.dockerfile variable",
+			],
+			"settings": {
+				"foreground": "#C77DBB",
+			}
+		},
+		{
+			"scope": [
+				"source.shell.dockerfile",
+				"source.dockerfile support.function.builtin.shell",
+				"source.dockerfile source.shell keyword",
+				"source.dockerfile punctuation.definition.variable variable"
+			],
+			"settings": {
+				"foreground": "#BCBEC4",
 			}
 		},
 
