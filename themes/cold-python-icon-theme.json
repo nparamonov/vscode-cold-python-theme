@@ -25,6 +25,7 @@
 		"folder_scripts": {"iconPath": "./icons/folder_scripts.svg"},
 		"folder_migrations": {"iconPath": "./icons/folder_migrations.svg"},
 		"folder_database": {"iconPath": "./icons/folder_database.svg"},
+		"folder_vendor": {"iconPath": "./icons/folder_vendor.svg"},
 		"file_ignored": {"iconPath": "./icons/ignored_dark.svg"},
 		"file_css": {"iconPath": "./icons/css.svg"},
 		"file_scss": {"iconPath": "./icons/scss.svg"},
@@ -57,6 +58,10 @@
 		"file_python": {"iconPath": "./icons/python.svg"},
 		"file_terraform": {"iconPath": "./icons/terraform_dark.svg"},
 		"file_go": {"iconPath": "./icons/go_dark.svg"},
+		"file_go_mod": {"iconPath": "./icons/goMod_dark.svg"},
+		"file_go_sum": {"iconPath": "./icons/goSum_dark.svg"},
+		"file_go_test": {"iconPath": "./icons/goTest_dark.svg"},
+		"file_go_template": {"iconPath": "./icons/goTemplate_dark.svg"},
 		"file_http": {"iconPath": "./icons/http_dark.svg"},
 		"file_docker": {"iconPath": "./icons/docker_dark.svg"},
 		"file_php": {"iconPath": "./icons/php_dark.svg"},
@@ -97,6 +102,7 @@
 		".tox": "folder_gitignored",
 		".mypy_cache": "folder_gitignored",
 		".ruff_cache": "folder_gitignored",
+		"vendor": "folder_vendor",
 	},
 	"fileNames": {
 		".gitignore": "file_gitignore",
@@ -122,7 +128,10 @@
 		"Cargo.toml": "file_cargo",
 		"rust-toolchain.toml": "file_cargo",
 		"Cargo.lock": "file_cargolock",
-		"CMakeLists.txt": "file_cmake"
+		"CMakeLists.txt": "file_cmake",
+		"go.mod": "file_go_mod",
+		"go.sum": "file_go_sum",
+		"*_test.go": "file_go_test", // not supported yet
 	},
 	"fileExtensions": {
 		"css": "file_css",
@@ -193,5 +202,6 @@
 		"rs": "file_rust",
 		"pdf": "file_pdf",
 		"ipynb": "file_jupyter",
+		"gohtml": "file_go_template",
 	}
   }
