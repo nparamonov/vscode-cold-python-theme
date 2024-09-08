@@ -55,7 +55,7 @@
 		"file_scala": {"iconPath": "./icons/scala_dark.svg"},
 		"file_archive": {"iconPath": "./icons/archive_dark.svg"},
 		"file_toml": {"iconPath": "./icons/toml_dark.svg"},
-		"file_python": {"iconPath": "./icons/python.svg"},
+		"file_python": {"iconPath": "./icons/python_dark.svg"},
 		"file_terraform": {"iconPath": "./icons/terraform_dark.svg"},
 		"file_go": {"iconPath": "./icons/go_dark.svg"},
 		"file_go_mod": {"iconPath": "./icons/goMod_dark.svg"},

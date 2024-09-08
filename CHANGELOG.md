@@ -7,6 +7,7 @@
 - Define terminal ansi colors
 - Add Dockerfile variable color support
 - Add Golang file icons: vendor folder, go.mod, go.sum, gohtml. "*_test.go" icon added but still not supported by VS Code
+- Update Python file icon
 
 ## 1.7.1
 
