@@ -798,7 +798,7 @@
 		},
 		{
 			"scope": [
-				"meta.statement.command.shell"
+				"text.html.markdown meta.statement.command.shell"
 			],
 			"settings": {
 				"foreground": "#6D9CBE",
@@ -806,8 +806,8 @@
 		},
 		{
 			"scope": [
-				"meta.statement.command.name.shell",
-				"support.function.builtin.shell",
+				"text.html.markdown meta.statement.command.name.shell",
+				"text.html.markdown support.function.builtin.shell",
 			],
 			"settings": {
 				"foreground": "#917747",
@@ -885,8 +885,8 @@
 
 		{
 			"scope": [
-				"source.shell string.interpolated punctuation.definition",
-				"source.shell string.quoted punctuation.definition",
+				// "source.shell string.interpolated punctuation.definition",
+				// "source.shell string.quoted punctuation.definition",
 				"source.shell support.function.builtin",
 				"source.shell keyword"
 			],
@@ -1386,6 +1386,7 @@
 		{
 			"scope": [
 				"source.dockerfile keyword.other.special-method",
+				"source.dockerfile punctuation.separator.statement.and.shell"
 			],
 			"settings": {
 				"foreground": "#c48d69",
@@ -1401,13 +1402,36 @@
 		},
 		{
 			"scope": [
-				"source.shell.dockerfile",
-				"source.dockerfile support.function.builtin.shell",
-				"source.dockerfile source.shell keyword",
-				"source.dockerfile punctuation.definition.variable variable"
+				"entity.name.image.stage.dockerfile",
+			],
+			"settings": {
+				"foreground": "#3e83c9",
+			}
+		},
+		{
+			"scope": [
+				"constant.numeric.version.dockerfile",
+			],
+			"settings": {
+				"foreground": "#279CB2",
+			}
+		},
+		{
+			"scope": [
+				"source.dockerfile punctuation.definition.variable variable",
+				"punctuation.separator.version.dockerfile",
+				"punctuation.separator.version.dockerfile constant.numeric.version.dockerfile",
 			],
 			"settings": {
 				"foreground": "#BCBEC4",
+			}
+		},
+		{
+			"scope": [
+				"source.dockerfile entity.name.command.shell"
+			],
+			"settings": {
+				"foreground": "#b77651",
 			}
 		},
 
