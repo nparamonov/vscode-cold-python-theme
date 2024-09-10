@@ -660,7 +660,8 @@
 				"source.sql keyword",
 				"keyword.other.DDL",
 				"source.sql support",
-				"support.function.logical.sql"
+				"support.function.logical.sql",
+				"storage.modifier.sql"
 			],
 			"settings": {
 				"foreground": "#c48d69",
