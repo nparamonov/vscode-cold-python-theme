@@ -461,7 +461,15 @@
 				"text.html constant"
 			],
 			"settings": {
-				"foreground": "#6D9CBE",
+				"foreground": "#56A8F5",
+			}
+		},
+		{
+			"scope": [
+				"text.html meta.tag.custom entity.name.tag"
+			],
+			"settings": {
+				"foreground": "#2FBAA3",
 			}
 		},
 		{
