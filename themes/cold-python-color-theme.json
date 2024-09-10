@@ -924,9 +924,8 @@
 		{
 			"name": "JSON punctuation",
 			"scope": [
-				"source.json punctuation.separator.dictionary.key-value",
-				"source.json punctuation.separator.array",
-				"source.json constant.language"
+				"source.json constant.language",
+				"source.json constant.character.escape"
 			],
 			"settings": {
 				"foreground": "#c48d69",
@@ -949,20 +948,6 @@
 			],
 			"settings": {
 				"foreground": "#6A8759",
-			}
-		},
-		{
-			"name": "JSON commas",
-			"scope": [
-				"source.json punctuation.separator.dictionary.pair",
-				"source.json punctuation.separator.element",
-				"source.json punctuation.separator.arguments",
-				"source.json punctuation.separator.parameters",
-				"source.json punctuation.separator.continuation",
-			],
-			"settings": {
-				"foreground": "#c48d69",
-				"fontStyle": ""
 			}
 		},
 
