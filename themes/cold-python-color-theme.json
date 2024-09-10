@@ -1791,5 +1791,45 @@
 				"foreground": "#6AAB73"
 			}
 		},
+		{
+			"scope": [
+				"text.log log.debug",
+			],
+			"settings": {
+				"foreground": "#299999"
+			}
+		},
+		{
+			"scope": [
+				"text.log log.info",
+			],
+			"settings": {
+				"foreground": "#56A8F5"
+			}
+		},
+		{
+			"scope": [
+				"text.log log.warning",
+			],
+			"settings": {
+				"foreground": "#E0BB65"
+			}
+		},
+		{
+			"scope": [
+				"text.log log.error",
+			],
+			"settings": {
+				"foreground": "#F75464"
+			}
+		},
+		{
+			"scope": [
+				"text.log log.date",
+			],
+			"settings": {
+				"foreground": "#6AAB73"
+			}
+		},
 	]
 }

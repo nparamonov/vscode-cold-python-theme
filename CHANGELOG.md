@@ -14,6 +14,7 @@
 - Add restructuredtext syntax colors
 - Update Shell Script syntax colors
 - Update XML syntax colors
+- Add logs colors
 
 ## 1.7.1
 
