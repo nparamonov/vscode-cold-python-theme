@@ -893,13 +893,40 @@
 
 		{
 			"scope": [
-				// "source.shell string.interpolated punctuation.definition",
-				// "source.shell string.quoted punctuation.definition",
 				"source.shell support.function.builtin",
-				"source.shell keyword"
+				"source.shell keyword",
+				"source.shell punctuation.definition.subshell.single",
+				"source.shell punctuation.separator.statement.background",
+				"source.shell punctuation.definition.string.heredoc.delimiter",
+				"source.shell punctuation.definition.variable.shell"
 			],
 			"settings": {
 				"foreground": "#c48d69"
+			}
+		},
+		{
+			"scope": [
+				"source.shell meta.function entity.name.function"
+			],
+			"settings": {
+				"foreground": "#56A8F5"
+			}
+		},
+		{
+			"scope": [
+				"source.shell entity.name.command",
+				"source.shell punctuation.definition.evaluation.backticks"
+			],
+			"settings": {
+				"foreground": "#C57633"
+			}
+		},
+		{
+			"scope": [
+				"source.shell variable.other.normal",
+			],
+			"settings": {
+				"foreground": "#BCBEC4"
 			}
 		},
 

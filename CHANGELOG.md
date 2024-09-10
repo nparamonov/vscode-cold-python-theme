@@ -12,6 +12,7 @@
 - Add HTTP Request syntax colors
 - Update JSON colors
 - Add restructuredtext syntax colors
+- Update Shell Script syntax colors
 
 ## 1.7.1
 
