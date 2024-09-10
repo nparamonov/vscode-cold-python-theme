@@ -1707,5 +1707,45 @@
 				"foreground": "#BCBEC4"
 			}
 		},
+		{
+			"scope": [
+				"source.rst markup.heading",
+			],
+			"settings": {
+				"foreground": "#2AACB8"
+			}
+		},
+		{
+			"scope": [
+				"source.rst keyword",
+			],
+			"settings": {
+				"foreground": "#CF8E6D"
+			}
+		},
+		{
+			"scope": [
+				"source.rst markup.italic",
+			],
+			"settings": {
+				"fontStyle": "italic"
+			}
+		},
+		{
+			"scope": [
+				"source.rst markup.bold",
+			],
+			"settings": {
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"scope": [
+				"source.rst entity.name.tag",
+			],
+			"settings": {
+				"foreground": "#6AAB73"
+			}
+		},
 	]
 }

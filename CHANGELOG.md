@@ -11,6 +11,7 @@
 - Add custom tag color HTML
 - Add HTTP Request syntax colors
 - Update JSON colors
+- Add restructuredtext syntax colors
 
 ## 1.7.1
 
