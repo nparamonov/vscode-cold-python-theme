@@ -13,6 +13,7 @@
 - Update JSON colors
 - Add restructuredtext syntax colors
 - Update Shell Script syntax colors
+- Update XML syntax colors
 
 ## 1.7.1
 

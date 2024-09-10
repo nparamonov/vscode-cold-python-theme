@@ -414,6 +414,22 @@
 				"foreground": "#6A8759"
 			}
 		},
+		{
+			"scope": [
+				"text.xml constant.character.entity"
+			],
+			"settings": {
+				"foreground": "#56A8F5"
+			}
+		},
+		{
+			"scope": [
+				"text.xml string.unquoted.cdata"
+			],
+			"settings": {
+				"foreground": "#BCBEC4"
+			}
+		},
 
 		{
 			"name": "HTML embedded block closing tag brackets",
