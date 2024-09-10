@@ -1689,5 +1689,38 @@
 				"foreground": "#c48d69"
 			}
 		},
+		{
+			"scope": [
+				"source.http keyword.control",
+				"source.http keyword.other"
+			],
+			"settings": {
+				"foreground": "#CF8E6D"
+			}
+		},
+		{
+			"scope": [
+				"source.http http.filevariable string.other",
+			],
+			"settings": {
+				"foreground": "#6AAB73"
+			}
+		},
+		{
+			"scope": [
+				"source.http http.headers entity.name.tag",
+			],
+			"settings": {
+				"foreground": "#C77DBB"
+			}
+		},
+		{
+			"scope": [
+				"source.http http.headers keyword.other",
+			],
+			"settings": {
+				"foreground": "#BCBEC4"
+			}
+		},
 	]
 }
