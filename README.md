@@ -96,8 +96,9 @@ Also, there are some additional settings that you can apply both in the Settings
 
 ```json
 "editor.fontSize": 13,
-"editor.fontLigatures": true,
-"terminal.integrated.fontFamily": "JetBrainsMono"
+"editor.fontLigatures": true, // ">=" to "≥" etc
+"terminal.integrated.fontFamily": "JetBrainsMono",
+"terminal.integrated.fontSize": 13,
 ```
 
 ## Credits

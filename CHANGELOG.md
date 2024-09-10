@@ -1,5 +1,21 @@
 # Change Log
 
+## 1.8.0
+
+- Add InlayHint styles
+- Markdown: add shell code block styles
+- Define terminal ansi colors
+- Add Dockerfile variable color support
+- Add Golang file icons: vendor folder, go.mod, go.sum, gohtml. "*_test.go" icon added but still not supported by VS Code
+- Update Python file icon
+- Add custom tag color HTML
+- Add HTTP Request syntax colors
+- Update JSON colors
+- Add restructuredtext syntax colors
+- Update Shell Script syntax colors
+- Update XML syntax colors
+- Add logs colors
+
 ## 1.7.1
 
 - Fix Jenkinsfile and Groovy syntax colors
