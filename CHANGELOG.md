@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.9.0
+
+- Add pip-requirements syntax colors
+
 ## 1.8.0
 
 - Add InlayHint styles

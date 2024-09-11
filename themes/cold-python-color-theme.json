@@ -1831,5 +1831,21 @@
 				"foreground": "#6AAB73"
 			}
 		},
+		{
+			"scope": [
+				"source.pip-requirements entity.name.class",
+			],
+			"settings": {
+				"foreground": "#b17655"
+			}
+		},
+		{
+			"scope": [
+				"source.pip-requirements constant.numeric",
+			],
+			"settings": {
+				"foreground": "#5a955f"
+			}
+		},
 	]
 }
