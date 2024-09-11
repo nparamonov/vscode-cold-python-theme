@@ -5,6 +5,7 @@
 - Add pip-requirements syntax colors
 - Fix logs colors
 - Update readme: add recommended extensions list
+- Add go.mod and go.sum syntax colors
 
 ## 1.8.0
 

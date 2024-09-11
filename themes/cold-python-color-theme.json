@@ -1654,6 +1654,23 @@
 		},
 		{
 			"scope": [
+				"go.mod keyword",
+			],
+			"settings": {
+				"foreground": "#ad734d"
+			}
+		},
+		{
+			"scope": [
+				"go.mod constant.language",
+				"go.sum constant.language"
+			],
+			"settings": {
+				"foreground": "#27989d"
+			}
+		},
+		{
+			"scope": [
 				"source.groovy constant",
 				"constant.language.groovy",
 			],
