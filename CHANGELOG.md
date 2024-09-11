@@ -4,6 +4,7 @@
 
 - Add pip-requirements syntax colors
 - Fix logs colors
+- Update readme: add recommended extensions list
 
 ## 1.8.0
 

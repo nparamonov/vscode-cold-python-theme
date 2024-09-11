@@ -101,6 +101,17 @@ Also, there are some additional settings that you can apply both in the Settings
 "terminal.integrated.fontSize": 13,
 ```
 
+## Recommended extensions
+
+Not all syntaxes are supported in VS Code out of the box. However, you can install extensions that add support for some languages.
+
+There are the extensions below that add support for some syntaxes that have colors defined in the Cold Python Theme:
+
+- [Better DockerFile Syntax](https://marketplace.visualstudio.com/items?itemName=jeff-hykin.better-dockerfile-syntax)
+- [Better Jinja](https://marketplace.visualstudio.com/items?itemName=samuelcolvin.jinjahtml)
+- [Even Better TOML](https://marketplace.visualstudio.com/items?itemName=tamasfe.even-better-toml)
+- [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
+
 ## Credits
 
 I express my deep gratitude to the JetBrains team for their work. Here are links to open resources used to create the Cold Python theme:
