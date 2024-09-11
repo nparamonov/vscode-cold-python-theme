@@ -3,6 +3,7 @@
 ## 1.9.0
 
 - Add pip-requirements syntax colors
+- Fix logs colors
 
 ## 1.8.0
 

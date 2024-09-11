@@ -1833,6 +1833,14 @@
 		},
 		{
 			"scope": [
+				"text.log constant.language",
+			],
+			"settings": {
+				"foreground": "#BCBEC4"
+			}
+		},
+		{
+			"scope": [
 				"source.pip-requirements entity.name.class",
 			],
 			"settings": {
