@@ -6,6 +6,7 @@
 - Fix logs colors
 - Update readme: add recommended extensions list
 - Add go.mod and go.sum syntax colors
+- Update editor colors: buttons, minimap, editorOverviewRuler, diffEditor, debugIcon
 
 ## 1.8.0
 
