@@ -1,5 +1,13 @@
 # Change Log
 
+## 1.9.0
+
+- Add pip-requirements syntax colors
+- Fix logs colors
+- Update readme: add recommended extensions list
+- Add go.mod and go.sum syntax colors
+- Update editor colors: buttons, minimap, editorOverviewRuler, diffEditor, debugIcon
+
 ## 1.8.0
 
 - Add InlayHint styles

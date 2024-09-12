@@ -110,14 +110,39 @@
 
 		"settings.headerForeground": "#BBBBBB",
 
-		"gitDecoration.ignoredResourceForeground": "#505050",
-
 		"editorInlayHint.background": "#2d2e32",
 		"editorInlayHint.foreground": "#70787a",
 		"editorInlayHint.parameterBackground": "#2d2e32",
 		"editorInlayHint.parameterForeground": "#70787a",
 		"editorInlayHint.typeBackground": "#2d2e32",
 		"editorInlayHint.typeForeground": "#70787a",
+
+		"button.background": "#3574f0",
+		"button.foreground": "#f7f7fd",
+		"button.hoverBackground": "#4982f1",
+		"button.secondaryBackground": "#2b2d30",
+		"button.secondaryForeground": "#d0dbe4",
+		"button.secondaryHoverBackground": "#3f4246",
+		"button.border": "#4e5157",
+
+		"minimap.findMatchHighlight": "#72d6d6",
+		"minimap.errorHighlight": "#d64d5b",
+		"minimap.warningHighlight": "#c29e4a",
+
+		"editorOverviewRuler.findMatchForeground": "#72d6d6",
+		"editorOverviewRuler.errorForeground": "#d64d5b",
+		"editorOverviewRuler.warningForeground": "#c29e4a",
+
+		"debugIcon.breakpointForeground": "#db5c5c",
+
+		"diffEditor.insertedTextBackground": "#2c4434",
+		"diffEditor.removedTextBackground": "#45302b",
+		"diffEditor.insertedLineBackground": "#252f28",
+		"diffEditor.removedLineBackground": "#2e2626",
+
+		"gitDecoration.ignoredResourceForeground": "#505050",
+
+
 	},
 	"tokenColors": [
 		{
@@ -1654,6 +1679,23 @@
 		},
 		{
 			"scope": [
+				"go.mod keyword",
+			],
+			"settings": {
+				"foreground": "#ad734d"
+			}
+		},
+		{
+			"scope": [
+				"go.mod constant.language",
+				"go.sum constant.language"
+			],
+			"settings": {
+				"foreground": "#27989d"
+			}
+		},
+		{
+			"scope": [
 				"source.groovy constant",
 				"constant.language.groovy",
 			],
@@ -1829,6 +1871,30 @@
 			],
 			"settings": {
 				"foreground": "#6AAB73"
+			}
+		},
+		{
+			"scope": [
+				"text.log constant.language",
+			],
+			"settings": {
+				"foreground": "#BCBEC4"
+			}
+		},
+		{
+			"scope": [
+				"source.pip-requirements entity.name.class",
+			],
+			"settings": {
+				"foreground": "#b17655"
+			}
+		},
+		{
+			"scope": [
+				"source.pip-requirements constant.numeric",
+			],
+			"settings": {
+				"foreground": "#5a955f"
 			}
 		},
 	]
