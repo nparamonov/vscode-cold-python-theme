@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.10.0
+
+- Customize Python files icons: `__init__.py`, `conftest.py`
+
 ## 1.9.0
 
 - Add pip-requirements syntax colors

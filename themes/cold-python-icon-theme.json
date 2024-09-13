@@ -56,6 +56,8 @@
 		"file_archive": {"iconPath": "./icons/archive_dark.svg"},
 		"file_toml": {"iconPath": "./icons/toml_dark.svg"},
 		"file_python": {"iconPath": "./icons/python_dark.svg"},
+		"file_python_tests": {"iconPath": "./icons/pythonTests_dark.svg"},
+		"file_python_console": {"iconPath": "./icons/pythonConsole_dark.svg"},
 		"file_terraform": {"iconPath": "./icons/terraform_dark.svg"},
 		"file_go": {"iconPath": "./icons/go_dark.svg"},
 		"file_go_mod": {"iconPath": "./icons/goMod_dark.svg"},
@@ -132,6 +134,8 @@
 		"go.mod": "file_go_mod",
 		"go.sum": "file_go_sum",
 		"*_test.go": "file_go_test", // not supported yet
+		"conftest.py": "file_python_tests",
+		"__init__.py": "file_python_console",
 	},
 	"fileExtensions": {
 		"css": "file_css",
