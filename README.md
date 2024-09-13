@@ -39,6 +39,23 @@ I hope this theme will be the one you enjoy working with day and night.
 - Icons theme, inspired by JetBrains ([https://jetbrains.design/intellij/resources/icons_list/](https://jetbrains.design/intellij/resources/icons_list/)) + folders icons
 - JetBrains Mono font ready to use (included in icon theme)
 
+### Icon theme
+
+#### Folders icons
+
+![Folders icons](https://raw.githubusercontent.com/nparamonov/vscode-cold-python-theme/main/img/folders_icons.png)
+
+#### File extensions icons
+
+![Folders icons](https://raw.githubusercontent.com/nparamonov/vscode-cold-python-theme/main/img/file_extensions_icons.png)
+
+#### File names icons
+
+Icons for reserved file names
+
+![Folders icons](https://raw.githubusercontent.com/nparamonov/vscode-cold-python-theme/main/img/file_names_icons.png)
+
+
 ## Install
 
 Go to [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=nparamonov.cold-python-theme) and click on the "Install" button.
