@@ -3,6 +3,8 @@
 ## 1.10.0
 
 - Customize Python files icons: `__init__.py`, `conftest.py`
+- Add folder icons: `cmd`, `pkg`, `internal`, `web`, `test`, `testdata`
+- Add file icons: `.gotmpl`, `main.go`
 
 ## 1.9.0
 
