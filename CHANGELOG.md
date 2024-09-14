@@ -7,6 +7,7 @@
 - Add file icons: `.gotmpl`, `main.go`
 - Add Go import alias color
 - Updated error and warning underline colors
+- Add escape characters color for all syntaxes
 - Readme: add icons imgs
 
 ## 1.9.0

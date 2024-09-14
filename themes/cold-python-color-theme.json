@@ -212,6 +212,14 @@
 		},
 		{
 			"scope": [
+				"constant.character.escape",
+			],
+			"settings": {
+				"foreground": "#CF8E6D",
+			}
+		},
+		{
+			"scope": [
 				"variable.parameter.url",
 				"string.url",
 			],
@@ -1246,7 +1254,15 @@
 				"source.toml string.quoted.single.basic.line",
 			],
 			"settings": {
-				"foreground": "#6A8759",
+				"foreground": "#5B9C71",
+			}
+		},
+		{
+			"scope": [
+				"source.toml constant.character.escape",
+			],
+			"settings": {
+				"foreground": "#CF8E6D",
 			}
 		},
 
@@ -1683,6 +1699,15 @@
 			"settings": {
 				"foreground": "#279CB2"
 			}
+		},
+		{
+			"scope": [
+				"source.go constant.character.escape",
+			],
+			"settings": {
+				"foreground": "#c48d69",
+				"fontStyle": ""
+			},
 		},
 		{
 			"scope": [
