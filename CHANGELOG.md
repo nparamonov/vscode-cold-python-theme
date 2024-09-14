@@ -6,6 +6,7 @@
 - Add folder icons: `cmd`, `pkg`, `internal`, `web`, `test`, `testdata`
 - Add file icons: `.gotmpl`, `main.go`
 - Add Go import alias color
+- Updated error and warning underline colors
 - Readme: add icons imgs
 
 ## 1.9.0

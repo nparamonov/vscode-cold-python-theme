@@ -133,6 +133,11 @@
 		"editorOverviewRuler.errorForeground": "#d64d5b",
 		"editorOverviewRuler.warningForeground": "#c29e4a",
 
+		"editorError.foreground": "#FA6675",
+		"editorWarning.foreground": "#F2C55C",
+		"editorInfo.foreground": "#3592C4",
+		// "editorHint.foreground": "#7EC482",
+
 		"debugIcon.breakpointForeground": "#db5c5c",
 
 		"diffEditor.insertedTextBackground": "#2c4434",
@@ -1348,7 +1353,7 @@
 		{
 			"scope": "invalid",
 			"settings": {
-				"foreground": "#FF0000"
+				"foreground": "#FA6675"
 			}
 		},
 		{
