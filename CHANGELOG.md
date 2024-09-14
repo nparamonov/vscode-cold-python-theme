@@ -5,6 +5,7 @@
 - Customize Python files icons: `__init__.py`, `conftest.py`
 - Add folder icons: `cmd`, `pkg`, `internal`, `web`, `test`, `testdata`
 - Add file icons: `.gotmpl`, `main.go`
+- Add Go import alias color
 - Readme: add icons imgs
 
 ## 1.9.0

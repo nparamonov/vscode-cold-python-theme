@@ -1594,9 +1594,11 @@
 			"scope": [
 				"entity.name.type.package.go",
 				"source.go entity.name.type.package",
+				"variable.other.import.go",
+				"source.go variable.other.import",
 			],
 			"settings": {
-				"foreground": "#a1ac56"
+				"foreground": "#94a261"
 			}
 		},
 		{
