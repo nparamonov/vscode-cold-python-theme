@@ -9,6 +9,7 @@
 - Updated error and warning underline colors
 - Add escape characters color for all syntaxes
 - Readme: add icons imgs
+- Readme: add syntax imgs
 
 ## 1.9.0
 
