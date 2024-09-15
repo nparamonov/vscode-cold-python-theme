@@ -8,6 +8,7 @@
 - Add Go import alias color
 - Updated error and warning underline colors
 - Add escape characters color for all syntaxes
+- Git diff more saturate colors
 - Readme: add icons imgs
 - Readme: add syntax imgs
 - Readme: update main example img

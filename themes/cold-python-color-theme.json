@@ -140,10 +140,10 @@
 
 		"debugIcon.breakpointForeground": "#db5c5c",
 
-		"diffEditor.insertedTextBackground": "#2c4434",
-		"diffEditor.removedTextBackground": "#45302b",
-		"diffEditor.insertedLineBackground": "#252f28",
-		"diffEditor.removedLineBackground": "#2e2626",
+		"diffEditor.insertedTextBackground": "#244c32",
+		"diffEditor.removedTextBackground": "#4d2a23",
+		"diffEditor.insertedLineBackground": "#213327",
+		"diffEditor.removedLineBackground": "#322222",
 
 		"gitDecoration.ignoredResourceForeground": "#505050",
 
