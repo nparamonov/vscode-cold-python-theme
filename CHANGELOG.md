@@ -12,6 +12,7 @@
 - Readme: add icons imgs
 - Readme: add syntax imgs
 - Readme: update main example img
+- Readme: add terminal, git diff example img
 
 ## 1.9.0
 
