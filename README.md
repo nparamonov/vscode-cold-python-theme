@@ -49,13 +49,23 @@ I hope this theme will be the one you enjoy working with day and night.
 
 Some examples of syntax highlighting
 
+Python
+
 ![Python syntax](https://raw.githubusercontent.com/nparamonov/vscode-cold-python-theme/main/img/syntax_example_python.png)
+
+Golang
 
 ![Go syntax](https://raw.githubusercontent.com/nparamonov/vscode-cold-python-theme/main/img/syntax_example_go.png)
 
+JSON
+
 ![JSON syntax](https://raw.githubusercontent.com/nparamonov/vscode-cold-python-theme/main/img/syntax_example_json.png)
 
+Bash
+
 ![Sh syntax](https://raw.githubusercontent.com/nparamonov/vscode-cold-python-theme/main/img/syntax_example_sh.png)
+
+TOML
 
 ![TOML syntax](https://raw.githubusercontent.com/nparamonov/vscode-cold-python-theme/main/img/syntax_example_toml.png)
 
