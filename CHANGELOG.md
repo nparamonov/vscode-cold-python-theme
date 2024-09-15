@@ -1,5 +1,20 @@
 # Change Log
 
+## 1.10.0
+
+- Customize Python files icons: `__init__.py`, `conftest.py`
+- Add folder icons: `cmd`, `pkg`, `internal`, `web`, `test`, `testdata`
+- Add file icons: `.gotmpl`, `main.go`
+- Add Go import alias color
+- Updated error and warning underline colors
+- Add escape characters color for all syntaxes
+- Git diff more saturate colors
+- Readme: add icons imgs
+- Readme: add syntax imgs
+- Readme: update main example img
+- Readme: add terminal, git diff example img
+- Readme: update supported sytaxes list
+
 ## 1.9.0
 
 - Add pip-requirements syntax colors

@@ -133,12 +133,17 @@
 		"editorOverviewRuler.errorForeground": "#d64d5b",
 		"editorOverviewRuler.warningForeground": "#c29e4a",
 
+		"editorError.foreground": "#FA6675",
+		"editorWarning.foreground": "#F2C55C",
+		"editorInfo.foreground": "#3592C4",
+		// "editorHint.foreground": "#7EC482",
+
 		"debugIcon.breakpointForeground": "#db5c5c",
 
-		"diffEditor.insertedTextBackground": "#2c4434",
-		"diffEditor.removedTextBackground": "#45302b",
-		"diffEditor.insertedLineBackground": "#252f28",
-		"diffEditor.removedLineBackground": "#2e2626",
+		"diffEditor.insertedTextBackground": "#244c32",
+		"diffEditor.removedTextBackground": "#4d2a23",
+		"diffEditor.insertedLineBackground": "#213327",
+		"diffEditor.removedLineBackground": "#322222",
 
 		"gitDecoration.ignoredResourceForeground": "#505050",
 
@@ -203,6 +208,14 @@
 			"settings": {
 				"foreground": "#279cb2",
 				"fontStyle": ""
+			}
+		},
+		{
+			"scope": [
+				"constant.character.escape",
+			],
+			"settings": {
+				"foreground": "#CF8E6D",
 			}
 		},
 		{
@@ -1241,7 +1254,15 @@
 				"source.toml string.quoted.single.basic.line",
 			],
 			"settings": {
-				"foreground": "#6A8759",
+				"foreground": "#5B9C71",
+			}
+		},
+		{
+			"scope": [
+				"source.toml constant.character.escape",
+			],
+			"settings": {
+				"foreground": "#CF8E6D",
 			}
 		},
 
@@ -1348,7 +1369,7 @@
 		{
 			"scope": "invalid",
 			"settings": {
-				"foreground": "#FF0000"
+				"foreground": "#FA6675"
 			}
 		},
 		{
@@ -1594,9 +1615,11 @@
 			"scope": [
 				"entity.name.type.package.go",
 				"source.go entity.name.type.package",
+				"variable.other.import.go",
+				"source.go variable.other.import",
 			],
 			"settings": {
-				"foreground": "#a1ac56"
+				"foreground": "#94a261"
 			}
 		},
 		{
@@ -1676,6 +1699,15 @@
 			"settings": {
 				"foreground": "#279CB2"
 			}
+		},
+		{
+			"scope": [
+				"source.go constant.character.escape",
+			],
+			"settings": {
+				"foreground": "#c48d69",
+				"fontStyle": ""
+			},
 		},
 		{
 			"scope": [

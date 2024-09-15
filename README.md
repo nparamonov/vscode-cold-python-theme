@@ -18,26 +18,78 @@ I hope this theme will be the one you enjoy working with day and night.
 - Full support for syntax
   - Python
   - Golang
+  - shell
+  - Makefile
+  - Dockerfile
+  - JSON
+  - js
   - HTML
   - templates
-  - CSS
-  - shell
-  - rst
-  - json
-  - js
+  - jinja2
   - batchfile
   - ini
-  - yaml
-  - toml
+  - YAML
+  - TOML
   - ts
-  - dockerfile
-  - jinja2
-  - Makefile
+  - SQL
+  - markdown
+  - CSS
+  - XML
+  - rst
+  - HTTP Request
+  - log files
   - Jenkinsfile
   - Groovy
 
 - Icons theme, inspired by JetBrains ([https://jetbrains.design/intellij/resources/icons_list/](https://jetbrains.design/intellij/resources/icons_list/)) + folders icons
 - JetBrains Mono font ready to use (included in icon theme)
+
+
+### Syntax theme
+
+Some examples of syntax highlighting
+
+![Python syntax](https://raw.githubusercontent.com/nparamonov/vscode-cold-python-theme/main/img/syntax_example_python.png)
+
+![Go syntax](https://raw.githubusercontent.com/nparamonov/vscode-cold-python-theme/main/img/syntax_example_go.png)
+
+![JSON syntax](https://raw.githubusercontent.com/nparamonov/vscode-cold-python-theme/main/img/syntax_example_json.png)
+
+![Sh syntax](https://raw.githubusercontent.com/nparamonov/vscode-cold-python-theme/main/img/syntax_example_sh.png)
+
+![TOML syntax](https://raw.githubusercontent.com/nparamonov/vscode-cold-python-theme/main/img/syntax_example_toml.png)
+
+
+### Icon theme
+
+#### Folders icons
+
+![Folders icons](https://raw.githubusercontent.com/nparamonov/vscode-cold-python-theme/main/img/folders_icons.png)
+
+#### File extensions icons
+
+![File extensions icons](https://raw.githubusercontent.com/nparamonov/vscode-cold-python-theme/main/img/file_extensions_icons.png)
+
+#### File names icons
+
+Icons for reserved file names
+
+![File names icons](https://raw.githubusercontent.com/nparamonov/vscode-cold-python-theme/main/img/file_names_icons.png)
+
+
+### IDE theme
+
+The colors of various parts of the VS Code interface have also been defined.
+
+For example, the terminal colors match the overall theme color scheme:
+
+![Terminal example](https://raw.githubusercontent.com/nparamonov/vscode-cold-python-theme/main/img/terminal_example.png)
+
+Check out the new git diff colors:
+
+![Terminal example](https://raw.githubusercontent.com/nparamonov/vscode-cold-python-theme/main/img/git_diff_example.png)
+
+And many other elements have also been transformed, there is not enough space here to show everything.
 
 ## Install
 
