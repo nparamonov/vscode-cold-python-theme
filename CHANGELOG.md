@@ -10,6 +10,7 @@
 - Add escape characters color for all syntaxes
 - Readme: add icons imgs
 - Readme: add syntax imgs
+- Readme: update main example img
 
 ## 1.9.0
 
