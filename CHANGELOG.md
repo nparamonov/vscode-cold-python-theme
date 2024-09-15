@@ -13,6 +13,7 @@
 - Readme: add syntax imgs
 - Readme: update main example img
 - Readme: add terminal, git diff example img
+- Readme: update supported sytaxes list
 
 ## 1.9.0
 

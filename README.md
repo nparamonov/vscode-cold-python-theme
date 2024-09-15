@@ -18,21 +18,26 @@ I hope this theme will be the one you enjoy working with day and night.
 - Full support for syntax
   - Python
   - Golang
+  - shell
+  - Makefile
+  - Dockerfile
+  - JSON
+  - js
   - HTML
   - templates
-  - CSS
-  - shell
-  - rst
-  - json
-  - js
+  - jinja2
   - batchfile
   - ini
-  - yaml
-  - toml
+  - YAML
+  - TOML
   - ts
-  - dockerfile
-  - jinja2
-  - Makefile
+  - SQL
+  - markdown
+  - CSS
+  - XML
+  - rst
+  - HTTP Request
+  - log files
   - Jenkinsfile
   - Groovy
 
