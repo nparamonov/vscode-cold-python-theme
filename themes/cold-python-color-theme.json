@@ -1929,5 +1929,86 @@
 				"foreground": "#5a955f"
 			}
 		},
+		{
+			"scope": [
+				"source.rust meta.attribute",
+			],
+			"settings": {
+				"foreground": "#B3AE60"
+			}
+		},
+		{
+			"scope": [
+				"source.rust keyword",
+				"source.rust storage",
+				"source.rust entity.name.type.numeric",
+				"source.rust entity.name.type.primitive",
+				"source.rust punctuation.definition.interpolation"
+			],
+			"settings": {
+				"foreground": "#CF8E6D"
+			}
+		},
+		{
+			"scope": [
+				"source.rust keyword.operator",
+				"source.rust meta.interpolation"
+			],
+			"settings": {
+				"foreground": "#BCBEC4"
+			}
+		},
+		{
+			"scope": [
+				"source.rust constant",
+				"source.rust entity.name.type.option"
+			],
+			"settings": {
+				"foreground": "#C77DBB"
+			}
+		},
+		{
+			"scope": [
+				"source.rust string.quoted",
+			],
+			"settings": {
+				"foreground": "#6AAB73"
+			}
+		},
+		{
+			"scope": [
+				"source.rust meta.function.definition entity.name.function",
+			],
+			"settings": {
+				"foreground": "#57AAF7"
+			}
+		},
+		{
+			"scope": [
+				"source.rust entity.name.function.macro",
+				"source.rust keyword.operator.macro.dollar",
+				"source.rust meta.macro variable.other.metavariable.specifier",
+			],
+			"settings": {
+				"foreground": "#FFC66D"
+			}
+		},
+		{
+			"scope": [
+				"source.rust comment.line.documentation",
+			],
+			"settings": {
+				"foreground": "#5F826B"
+			}
+		},
+		{
+			"scope": [
+				"source.rust entity.name.type.lifetime",
+				"source.rust punctuation.definition.lifetime",
+			],
+			"settings": {
+				"foreground": "#20999D"
+			}
+		},
 	]
 }

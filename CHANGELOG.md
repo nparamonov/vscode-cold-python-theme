@@ -2,6 +2,7 @@
 
 ## 1.11.0
 - Add Excel file icon (.xlsx, .xls)
+- Add Rust sytax support
 
 ## 1.10.0
 
