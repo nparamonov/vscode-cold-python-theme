@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.11.0
+- Add Excel file icon (.xlsx, .xls)
+
 ## 1.10.0
 
 - Customize Python files icons: `__init__.py`, `conftest.py`
