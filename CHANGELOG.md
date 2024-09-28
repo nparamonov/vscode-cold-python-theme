@@ -3,6 +3,7 @@
 ## 1.11.0
 - Add Excel file icon (.xlsx, .xls)
 - Add Rust sytax support
+- Add Rainbow CSV colors support
 
 ## 1.10.0
 

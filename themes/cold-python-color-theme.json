@@ -2010,5 +2010,85 @@
 				"foreground": "#20999D"
 			}
 		},
+		{
+			"scope": [
+				"text.csv rainbow1",
+			],
+			"settings": {
+				"foreground": "#BABABA"
+			}
+		},
+		{
+			"scope": [
+				"text.csv keyword.rainbow2",
+			],
+			"settings": {
+				"foreground": "#808080"
+			}
+		},
+		{
+			"scope": [
+				"text.csv entity.name.function.rainbow3",
+			],
+			"settings": {
+				"foreground": "#3d85d6"
+			}
+		},
+		{
+			"scope": [
+				"text.csv comment.rainbow4",
+			],
+			"settings": {
+				"foreground": "#00A3A3"
+			}
+		},
+		{
+			"scope": [
+				"text.csv string.rainbow5",
+			],
+			"settings": {
+				"foreground": "#5C962C"
+			}
+		},
+		{
+			"scope": [
+				"text.csv variable.parameter.rainbow6",
+			],
+			"settings": {
+				"foreground": "#A771BF"
+			}
+		},
+		{
+			"scope": [
+				"text.csv constant.numeric.rainbow7",
+			],
+			"settings": {
+				"foreground": "#F0524F"
+			}
+		},
+		{
+			"scope": [
+				"text.csv entity.name.type.rainbow8",
+			],
+			"settings": {
+				"foreground": "#A68A0D"
+			}
+		},
+		{
+			"scope": [
+				"text.csv markup.bold.rainbow9",
+			],
+			"settings": {
+				"foreground": "#FF941A"
+			}
+		},
+		{
+			"scope": [
+				"text.csv invalid.rainbow10",
+			],
+			"settings": {
+				"foreground": "#955AE0"
+			}
+		},
 	]
 }
