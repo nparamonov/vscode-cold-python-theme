@@ -23,6 +23,35 @@
 		"editorIndentGuide.activeBackground": "#54565c",
 		"editorIndentGuide.activeBackground1": "#54565c",
 
+		"editor.stackFrameHighlightBackground": "#48242c",
+		"debugTokenExpression.name": "#c69165",
+		"debugTokenExpression.value": "#BCBEC4",
+		"debugTokenExpression.string": "#BCBEC4",
+		"debugTokenExpression.boolean": "#BCBEC4",
+		"debugTokenExpression.number": "#BCBEC4",
+		"debugTokenExpression.error": "#BCBEC4",
+		"debugTokenExpression.type": "#BCBEC4",
+
+		"debugIcon.breakpointCurrentStackframeForeground": "#c69165",
+		"debugIcon.breakpointForeground": "#db5c5c",
+
+		"debugIcon.startForeground": "#87cd83",
+		"debugIcon.pauseForeground": "#87cd83",
+		"debugIcon.stopForeground": "#e6816e",
+		"debugIcon.disconnectForeground": "#e6816e",
+		"debugIcon.restartForeground": "#87cd83",
+		"debugIcon.stepOverForeground": "#ced0d6",
+		"debugIcon.stepIntoForeground": "#ced0d6",
+		"debugIcon.stepOutForeground": "#ced0d6",
+		"debugIcon.continueForeground": "#87cd83",
+		"debugIcon.stepBackForeground": "#ced0d6",
+		"debugToolBar.background": "#393b40",
+
+		"debugConsole.infoForeground": "#56A8F5",
+		"debugConsole.warningForeground": "#E0BB65",
+		"debugConsole.errorForeground": "#F75464",
+		"debugConsole.sourceForeground": "#BCBEC4",
+
 		"tab.border": "#555555",
 		"tab.hoverBackground": "#26282e",
 		"tab.hoverForeground": "#dcdfe4",
@@ -137,8 +166,6 @@
 		"editorWarning.foreground": "#F2C55C",
 		"editorInfo.foreground": "#3592C4",
 		// "editorHint.foreground": "#7EC482",
-
-		"debugIcon.breakpointForeground": "#db5c5c",
 
 		"diffEditor.insertedTextBackground": "#244c32",
 		"diffEditor.removedTextBackground": "#4d2a23",
