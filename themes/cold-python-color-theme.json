@@ -174,7 +174,20 @@
 
 		"gitDecoration.ignoredResourceForeground": "#505050",
 
+		"editor.findMatchBackground": "#114957",
+		"editor.findMatchBorder": "#ced0d6",
+		"editor.findMatchHighlightBackground": "#114957",
+		"editor.findMatchHighlightBorder": "#165e70",
 
+		"editorBracketMatch.background": "#43454a",
+		// "editorBracketMatch.border": "#43454a",
+		"editorBracketHighlight.foreground1": "#BCBEC4",
+		"editorBracketHighlight.foreground2": "#BCBEC4",
+		"editorBracketHighlight.foreground3": "#BCBEC4",
+		"editorBracketHighlight.foreground4": "#BCBEC4",
+		"editorBracketHighlight.foreground5": "#BCBEC4",
+		"editorBracketHighlight.foreground6": "#BCBEC4",
+		"editorBracketHighlight.unexpectedBracket.foreground": "#d64d5b",
 	},
 	"tokenColors": [
 		{

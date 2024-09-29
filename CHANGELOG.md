@@ -6,6 +6,7 @@
 - Add Rust sytax support
 - Add Rainbow CSV colors support
 - Update debug colors
+- Update findMatch, Bracket colors
 
 ## 1.10.0
 
