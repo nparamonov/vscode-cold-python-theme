@@ -18,6 +18,7 @@ I hope this theme will be the one you enjoy working with day and night.
 - Full support for syntax
   - Python
   - Golang
+  - Rust
   - shell
   - Makefile
   - Dockerfile
@@ -44,7 +45,6 @@ I hope this theme will be the one you enjoy working with day and night.
 - Icons theme, inspired by JetBrains ([https://jetbrains.design/intellij/resources/icons_list/](https://jetbrains.design/intellij/resources/icons_list/)) + folders icons
 - JetBrains Mono font ready to use (included in icon theme)
 
-
 ### Syntax theme
 
 Some examples of syntax highlighting
@@ -69,7 +69,6 @@ TOML
 
 ![TOML syntax](https://raw.githubusercontent.com/nparamonov/vscode-cold-python-theme/main/img/syntax_example_toml.png)
 
-
 ### Icon theme
 
 #### Folders icons
@@ -85,7 +84,6 @@ TOML
 Icons for reserved file names
 
 ![File names icons](https://raw.githubusercontent.com/nparamonov/vscode-cold-python-theme/main/img/file_names_icons.png)
-
 
 ### IDE theme
 
@@ -154,6 +152,7 @@ Add the following line to your settings.json file:
 ```
 
 #### Extras
+
 Also, there are some additional settings that you can apply both in the Settings UI and in settings.json file:
 
 ```json
@@ -173,6 +172,7 @@ There are the extensions below that add support for some syntaxes that have colo
 - [Better Jinja](https://marketplace.visualstudio.com/items?itemName=samuelcolvin.jinjahtml)
 - [Even Better TOML](https://marketplace.visualstudio.com/items?itemName=tamasfe.even-better-toml)
 - [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
+- [Rainbow CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv)
 
 ## Credits
 

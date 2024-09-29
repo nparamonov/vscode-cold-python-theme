@@ -169,6 +169,8 @@
 		"cts": "file_typescript",
 		"mts": "file_typescript",
 		"csv": "file_csv",
+		"xlsx": "file_csv",
+		"xls": "file_csv",
 		"vue": "file_vue",
 		"png": "file_image",
 		"webp": "file_image",
