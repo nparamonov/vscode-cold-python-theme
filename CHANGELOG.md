@@ -5,6 +5,7 @@
 - Update CSS colors
 - Add Less colors
 - Add SCSS colors
+- Add Sass colors
 
 ## 1.11.0
 

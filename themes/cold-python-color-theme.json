@@ -2272,5 +2272,73 @@
 				"foreground": "#D0D0FF"
 			}
 		},
+		{
+			"scope": [
+				"source.sass comment",
+			],
+			"settings": {
+				"foreground": "#BC9455"
+			}
+		},
+		{
+			"scope": [
+				"source.sass variable",
+			],
+			"settings": {
+				"foreground": "#6D9CBE"
+			}
+		},
+		{
+			"scope": [
+				"source.sass keyword",
+			],
+			"settings": {
+				"foreground": "#CF8E6D"
+			}
+		},
+		{
+			"scope": [
+				"source.sass keyword.control.unit",
+			],
+			"settings": {
+				"foreground": "#BCBEC4"
+			}
+		},
+		{
+			"scope": [
+				"source.sass constant.character",
+			],
+			"settings": {
+				"foreground": "#6AAB73"
+			}
+		},
+		{
+			"scope": [
+				"source.sass constant.language.color",
+			],
+			"settings": {
+				"foreground": "#56A8F5"
+			}
+		},
+		{
+			"scope": [
+				"source.sass entity.other.attribute-name",
+				"source.sass entity.name.tag.css",
+				"source.sass entity.other.attribute-selector",
+				"source.sass support.function.name",
+				"source.sass entity.other.inherited-class.placeholder-selector"
+			],
+			"settings": {
+				"foreground": "#D5B778"
+			}
+		},
+		{
+			"scope": [
+				"source.sass keyword.control.unit",
+			],
+			"settings": {
+				"foreground": "#6AAB73"
+			}
+		},
 	]
 }
