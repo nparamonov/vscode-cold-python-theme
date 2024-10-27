@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.12.0
+
+- Update CSS colors
+
 ## 1.11.0
 
 - Add Excel file icon (.xlsx, .xls)
