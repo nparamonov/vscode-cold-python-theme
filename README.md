@@ -41,6 +41,10 @@ I hope this theme will be the one you enjoy working with day and night.
   - log files
   - Jenkinsfile
   - Groovy
+  - Less
+  - Sass
+  - SCSS
+  - Puppet
 
 - Icons theme, inspired by JetBrains ([https://jetbrains.design/intellij/resources/icons_list/](https://jetbrains.design/intellij/resources/icons_list/)) + folders icons
 - JetBrains Mono font ready to use (included in icon theme)

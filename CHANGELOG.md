@@ -1,5 +1,14 @@
 # Change Log
 
+## 1.12.0
+
+- Update CSS colors
+- Add Less colors
+- Add SCSS colors
+- Add Sass colors
+- Add Puppet colors, file icon
+- Add Asm colors, file icon
+
 ## 1.11.0
 
 - Add Excel file icon (.xlsx, .xls)
