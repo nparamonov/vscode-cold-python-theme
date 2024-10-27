@@ -2210,5 +2210,67 @@
 				"foreground": "#2AACB8"
 			}
 		},
+		{
+			"scope": [
+				"source.css.scss comment",
+			],
+			"settings": {
+				"foreground": "#BC9455"
+			}
+		},
+		{
+			"scope": [
+				"source.css.scss variable",
+			],
+			"settings": {
+				"foreground": "#6D9CBE"
+			}
+		},
+		{
+			"scope": [
+				"source.css.scss keyword",
+			],
+			"settings": {
+				"foreground": "#CF8E6D"
+			}
+		},
+		{
+			"scope": [
+				"source.css.scss support.constant",
+				"source.css.scss entity.name.tag.css",
+				"source.css.scss entity.name.function",
+				"source.css.scss entity.other.attribute-name",
+				"source.css.scss entity.name.tag.reference"
+			],
+			"settings": {
+				"foreground": "#D5B778"
+			}
+		},
+		{
+			"scope": [
+				"source.css.scss keyword.operator.arithmetic",
+				"source.css.scss punctuation.terminator.rule.css",
+				"source.css.scss entity.other.attribute-name punctuation",
+			],
+			"settings": {
+				"foreground": "#BCBEC4"
+			}
+		},
+		{
+			"scope": [
+				"source.css.scss support.constant.color",
+			],
+			"settings": {
+				"foreground": "#6AAB73"
+			}
+		},
+		{
+			"scope": [
+				"source.css.scss keyword.control.at-rule.mixin",
+			],
+			"settings": {
+				"foreground": "#D0D0FF"
+			}
+		},
 	]
 }
