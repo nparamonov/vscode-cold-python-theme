@@ -2359,5 +2359,40 @@
 				"foreground": "#C77DBB"
 			}
 		},
+		{
+			"scope": [
+				"source.asm keyword",
+			],
+			"settings": {
+				"foreground": "#CDA3E6"
+			}
+		},
+		{
+			"scope": [
+				"source.asm entity.directive",
+				"source.asm entity.name.section"
+			],
+			"settings": {
+				"foreground": "#CF8E6D"
+			}
+		},
+		{
+			"scope": [
+				"source.asm entity.name.function",
+			],
+			"settings": {
+				"foreground": "#D5B778"
+			}
+		},
+		{
+			"scope": [
+				"source.asm constant",
+				"source.asm constant.numeric",
+				"source.asm constant.language",
+			],
+			"settings": {
+				"foreground": "#2a9d9d"
+			}
+		},
 	]
 }

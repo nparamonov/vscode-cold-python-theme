@@ -7,6 +7,7 @@
 - Add SCSS colors
 - Add Sass colors
 - Add Puppet colors, file icon
+- Add Asm colors, file icon
 
 ## 1.11.0
 
