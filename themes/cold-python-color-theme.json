@@ -2150,5 +2150,65 @@
 				"foreground": "#955AE0"
 			}
 		},
+		{
+			"scope": [
+				"source.css.less keyword",
+			],
+			"settings": {
+				"foreground": "#CF8E6D"
+			}
+		},
+		{
+			"scope": [
+				"source.css.less string.quoted",
+			],
+			"settings": {
+				"foreground": "#6AAB73"
+			}
+		},
+		{
+			"scope": [
+				"source.css.less support.other.variable",
+			],
+			"settings": {
+				"foreground": "#D0D0FF"
+			}
+		},
+		{
+			"scope": [
+				"source.css.less entity.other.attribute-name",
+				"source.css.less support.unicode-range",
+				"source.css.less support.unicode-range constant.codepoint-range",
+				"source.css.less entity.name.tag",
+			],
+			"settings": {
+				"foreground": "#D5B778"
+			}
+		},
+		{
+			"scope": [
+				"source.css.less keyword.operator.arithmetic",
+				"source.css.less entity.other.attribute-name.pseudo-element punctuation.definition.entity",
+			],
+			"settings": {
+				"foreground": "#BCBEC4"
+			}
+		},
+		{
+			"scope": [
+				"source.css.less constant.other.color",
+			],
+			"settings": {
+				"foreground": "#56A8F5"
+			}
+		},
+		{
+			"scope": [
+				"source.css.less constant.numeric",
+			],
+			"settings": {
+				"foreground": "#2AACB8"
+			}
+		},
 	]
 }

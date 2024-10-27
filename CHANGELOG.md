@@ -3,6 +3,7 @@
 ## 1.12.0
 
 - Update CSS colors
+- Add Less colors
 
 ## 1.11.0
 
