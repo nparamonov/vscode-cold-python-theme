@@ -82,6 +82,7 @@
 		"gitlab": {"iconPath": "./icons/gitlab.svg"},
 		"file_pdf": {"iconPath": "./icons/pdf.svg"},
 		"file_jupyter": {"iconPath": "./icons/jupyter.svg"},
+		"file_puppet": {"iconPath": "./icons/PuppetLogo.svg"},
 	},
 	"file": "file_text",
 	"folder": "folder",
@@ -222,5 +223,6 @@
 		"ipynb": "file_jupyter",
 		"gohtml": "file_go_template",
 		"gotmpl": "file_go_template",
+		"pp": "file_puppet"
 	}
   }

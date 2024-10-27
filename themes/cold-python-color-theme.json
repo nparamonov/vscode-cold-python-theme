@@ -2340,5 +2340,24 @@
 				"foreground": "#6AAB73"
 			}
 		},
+		{
+			"scope": [
+				"source.puppet storage.type",
+				"source.puppet keyword"
+			],
+			"settings": {
+				"foreground": "#CF8E6D"
+			}
+		},
+		{
+			"scope": [
+				"source.puppet variable.other",
+				"source.puppet punctuation.section.embedded.begin",
+				"source.puppet punctuation.section.embedded.end",
+			],
+			"settings": {
+				"foreground": "#C77DBB"
+			}
+		},
 	]
 }
