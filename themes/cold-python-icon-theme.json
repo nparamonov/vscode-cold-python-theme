@@ -84,6 +84,7 @@
 		"file_jupyter": {"iconPath": "./icons/jupyter.svg"},
 		"file_puppet": {"iconPath": "./icons/PuppetLogo.svg"},
 		"file_asm": {"iconPath": "./icons/asm_dark.svg"},
+		"file_proto": {"iconPath": "./icons/protoFile_dark.svg"},
 	},
 	"file": "file_text",
 	"folder": "folder",
@@ -226,5 +227,6 @@
 		"gotmpl": "file_go_template",
 		"pp": "file_puppet",
 		"asm": "file_asm",
+		"proto": "file_proto",
 	}
   }
