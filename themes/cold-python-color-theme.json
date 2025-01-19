@@ -2394,5 +2394,33 @@
 				"foreground": "#2a9d9d"
 			}
 		},
+		{
+			"scope": [
+				"source.proto keyword",
+				"source.proto constant",
+				"source.proto storage.modifier",
+				"constant.language.proto",
+			],
+			"settings": {
+				"foreground": "#CF8E6D"
+			}
+		},
+		{
+			"scope": [
+				"source.proto string",
+				"string.quoted.double.proto",
+			],
+			"settings": {
+				"foreground": "#6AAB73"
+			}
+		},
+		{
+			"scope": [
+				"source.proto storage.type",
+			],
+			"settings": {
+				"foreground": "#CC7832"
+			}
+		},
 	]
 }

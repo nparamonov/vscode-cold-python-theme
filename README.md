@@ -177,6 +177,7 @@ There are the extensions below that add support for some syntaxes that have colo
 - [Even Better TOML](https://marketplace.visualstudio.com/items?itemName=tamasfe.even-better-toml)
 - [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
 - [Rainbow CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv)
+- [vscode-proto3](https://marketplace.visualstudio.com/items?itemName=zxh404.vscode-proto3)
 
 ## Credits
 

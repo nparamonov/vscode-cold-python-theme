@@ -1,5 +1,10 @@
 # Change Log
 
+## 1.13.0
+
+- Add .proto file icon
+- Add protobuf syntax colors
+
 ## 1.12.0
 
 - Update CSS colors
