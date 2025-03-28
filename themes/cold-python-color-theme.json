@@ -2422,5 +2422,51 @@
 				"foreground": "#CC7832"
 			}
 		},
+
+		{
+			"scope": [
+				"source.dart keyword",
+				// "source.dart support.class",
+				"source.dart storage.type.primitive",
+				"source.dart storage.modifier"
+			],
+			"settings": {
+				"foreground": "#CF8E6D"
+			}
+		},
+		{
+			"scope": [
+				"source.dart string",
+			],
+			"settings": {
+				"foreground": "#6AAB73"
+			}
+		},
+		{
+			"scope": [
+				"source.dart keyword.operator.assignment",
+				"source.dart keyword.operator.arithmetic",
+				"source.dart comment.block.documentation variable.name"
+			],
+			"settings": {
+				"foreground": "#BCBEC4"
+			}
+		},
+		{
+			"scope": [
+				"source.dart entity.name.function",
+			],
+			"settings": {
+				"foreground": "#56A8F5"
+			}
+		},
+		{
+			"scope": [
+				"source.dart storage.type.annotation",
+			],
+			"settings": {
+				"foreground": "#B3AE60"
+			}
+		},
 	]
 }

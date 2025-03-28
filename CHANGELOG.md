@@ -1,5 +1,10 @@
 # Change Log
 
+## 1.14.0
+
+- Add .dart file icon
+- Add dart syntax colors
+
 ## 1.13.0
 
 - Add .proto file icon
