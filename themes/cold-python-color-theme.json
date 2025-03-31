@@ -2426,7 +2426,6 @@
 		{
 			"scope": [
 				"source.dart keyword",
-				// "source.dart support.class",
 				"source.dart storage.type.primitive",
 				"source.dart storage.modifier"
 			],
@@ -2446,7 +2445,9 @@
 			"scope": [
 				"source.dart keyword.operator.assignment",
 				"source.dart keyword.operator.arithmetic",
-				"source.dart comment.block.documentation variable.name"
+				"source.dart comment.block.documentation variable.name",
+				"source.dart keyword.operator.ternary",
+				"source.dart keyword.operator",
 			],
 			"settings": {
 				"foreground": "#BCBEC4"
@@ -2466,6 +2467,14 @@
 			],
 			"settings": {
 				"foreground": "#B3AE60"
+			}
+		},
+		{
+			"scope": [
+				"source.dart support.class",
+			],
+			"settings": {
+				"foreground": "#C77DBB"
 			}
 		},
 	]

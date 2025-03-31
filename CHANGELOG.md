@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.14.1
+
+- Update dart syntax colors
+
 ## 1.14.0
 
 - Add .dart file icon
